@@ -1,0 +1,272 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+http://www.unc.edu/~rowlett/units/codes/country.htm
+
+Country Geographic coordinates from https://www.cia.gov/library/publications/the-world-factbook/fields/2011.html
+
+Follow standard UN conventions and namings.
+
+FIPS from https://en.wikipedia.org/wiki/List_of_FIPS_country_codes
+ -->
+
+<countryList>
+
+  <!-- country itu="" name="Unspecified" arabicName="غير محددة" latitude="" longitude="" iso2="" iso3="" iana="" un="" ioc="" / -->
+
+  <country itu="93" name="AFGHANISTAN" arabicName="" latitude="33 00 N" longitude="65 00 E" iso2="AF" iso3="AFG" iana=".af" un="AFG" ioc="AFG" fips="" />
+  <country itu="" name="ÅLAND ISLAND" arabicName="" latitude="" longitude="" iso2="AX" iso3="ALA" iana=".ax" un="" ioc="" fips="" />
+  <country itu="355" name="ALBANIA" arabicName="" latitude="41 00 N" longitude="20 00 E" iso2="AL" iso3="ALB" iana=".al" un="AL" ioc="ALB" fips="" />
+  <country itu="213" name="ALGERIA" arabicName="الجزائر" latitude="28 00 N" longitude="3 00 E" iso2="DZ" iso3="DZA" iana=".dz" un="DZ" ioc="ALG" fips="" />
+  <country itu="1-684" name="AMERICAN SAMOA" arabicName="" latitude="14 20 S" longitude="170 00 W" iso2="AS" iso3="ASM" iana=".as" un="" ioc="ASA" fips="" />
+  <country itu="376" name="ANDORRA" arabicName="" latitude="42 30 N" longitude="1 30 E" iso2="AD" iso3="AND" iana=".ad" un="AND" ioc="AND" fips="" />
+  <country itu="244" name="ANGOLA" arabicName="" latitude="12 30 S" longitude="18 30 E" iso2="AO" iso3="AGO" iana=".ao" un="" ioc="ANG" fips="" />
+  <country itu="1-264" name="ANGUILLA" arabicName="" latitude="18 15 N" longitude="63 10 W" iso2="AI" iso3="AIA" iana=".ai" un="" ioc="" fips="" />
+  <country itu="" name="ANTARCTICA" arabicName="" latitude="90 00 S" longitude="0 00 E" iso2="AQ" iso3="ATA" iana=".aq" un="" ioc="" fips="" />
+  <country itu="1-268" name="ANTIGUA AND BARBUDA" arabicName="" latitude="17 03 N" longitude="61 48 W" iso2="AG" iso3="ATG" iana=".ag" un="" ioc="ANT" fips="" />
+  <country itu="54" name="ARGENTINA" arabicName="" latitude="34 00 S" longitude="64 00 W" iso2="AR" iso3="ARG" iana=".ar" un="RA" ioc="ARG" fips="" />
+  <country itu="7" name="ARMENIA" arabicName="" latitude="40 00 N" longitude="45 00 E" iso2="AM" iso3="ARM" iana=".am" un="AM" ioc="ARM" fips="" />
+  <country itu="297" name="ARUBA" arabicName="" latitude="12 30 N" longitude="69 58 W" iso2="AW" iso3="ABW" iana=".aw" un="" ioc="ARU" fips="" />
+  <country itu="61" name="AUSTRALIA" arabicName="أستراليا" latitude="27 00 S" longitude="133 00 E" iso2="AU" iso3="AUS" iana=".au" un="AUS" ioc="AUS" fips="" />
+  <country itu="43" name="AUSTRIA" arabicName="" latitude="47 20 N" longitude="13 20 E" iso2="AT" iso3="AUT" iana=".at" un="A" ioc="AUT" fips="" />
+  <country itu="994" name="AZERBAIJAN" arabicName="" latitude="40 30 N" longitude="47 30 E" iso2="AZ" iso3="AZE" iana=".az" un="AZ" ioc="AZE" fips="" />
+  <country itu="1-242" name="BAHAMAS" arabicName="" latitude="24 15 N" longitude="76 00 W" iso2="BS" iso3="BHS" iana=".bs" un="BS" ioc="BAH" fips="" />
+  <country itu="973" name="BAHRAIN" arabicName="البحرين" latitude="26 00 N" longitude="50 33 E" iso2="BH" iso3="BHR" iana=".bh" un="BRN" ioc="BRN" fips="ba" />
+  <country itu="880" name="BANGLADESH" arabicName="" latitude="24 00 N" longitude="90 00 E" iso2="BD" iso3="BGD" iana=".bd" un="BD" ioc="BAN" fips="" />
+  <country itu="1-246" name="BARBADOS" arabicName="" latitude="13 10 N" longitude="59 32 W" iso2="BB" iso3="BRB" iana=".bb" un="BDS" ioc="BAR" fips="" />
+  <country itu="375" name="BELARUS" arabicName="" latitude="53 00 N" longitude="28 00 E" iso2="BY" iso3="BLR" iana=".by" un="BY" ioc="BLR" fips="" />
+  <country itu="32" name="BELGIUM" arabicName="" latitude="50 50 N" longitude="4 00 E" iso2="BE" iso3="BEL" iana=".be" un="B" ioc="BEL" fips="" />
+  <country itu="501" name="BELIZE" arabicName="" latitude="17 15 N" longitude="88 45 W" iso2="BZ" iso3="BLZ" iana=".bz" un="BH" ioc="BIZ" fips="" />
+  <country itu="229" name="BENIN" arabicName="" latitude="9 30 N" longitude="2 15 E" iso2="BJ" iso3="BEN" iana=".bj" un="DY" ioc="BEN" fips="" />
+  <country itu="1-441" name="BERMUDA" arabicName="" latitude="32 20 N" longitude="64 45 W" iso2="BM" iso3="BMU" iana=".bm" un="" ioc="BER" fips="" />
+  <country itu="975" name="BHUTAN" arabicName="" latitude="27 30 N" longitude="90 30 E" iso2="BT" iso3="BTN" iana=".bt" un="" ioc="BHU" fips="" />
+  <country itu="591" name="BOLIVIA" arabicName="" latitude="17 00 S" longitude="65 00 W" iso2="BO" iso3="BOL" iana=".bo" un="BOL" ioc="BOL" fips="" />
+  <country itu="387" name="BOSNIA AND HERZEGOVINA" arabicName="" latitude="44 00 N" longitude="18 00 E" iso2="BA" iso3="BIH" iana=".ba" un="BIH" ioc="BIH" fips="" />
+  <country itu="267" name="BOTSWANA" arabicName="" latitude="22 00 S" longitude="24 00 E" iso2="BW" iso3="BWA" iana=".bw" un="BW" ioc="BOT" fips="" />
+  <country itu="" name="BOUVET ISLAND" arabicName="" latitude="54 26 S" longitude="3 24 E" iso2="BV" iso3="BVT" iana=".bv" un="" ioc="" fips="" />
+  <country itu="55" name="BRAZIL" arabicName="" latitude="10 00 S" longitude="55 00 W" iso2="BR" iso3="BRA" iana=".br" un="BR" ioc="BRA" fips="" />
+  <country itu="" name="BRITISH INDIAN OCEAN TERRITORY" arabicName="6 00 S" latitude="71 30 E" longitude="" iso2="IO" iso3="IOT" iana=".io" un="" ioc="" fips="" />
+  <country itu="673" name="BRUNEI DARUSSALAM" arabicName="" latitude="4 30 N" longitude="114 40 E" iso2="BN" iso3="BRN" iana=".bn" un="BRU" ioc="BRU" fips="" />
+  <country itu="359" name="BULGARIA" arabicName="" latitude="43 00 N" longitude="25 00 E" iso2="BG" iso3="BGR" iana=".bg" un="BG" ioc="BUL" fips="" />
+  <country itu="226" name="BURKINA FASO" arabicName="" latitude="13 00 N" longitude="2 00 W" iso2="BF" iso3="BFA" iana=".bf" un="BF" ioc="BUR" fips="" />
+  <country itu="257" name="BURUNDI" arabicName="" latitude="3 30 S" longitude="30 00 E" iso2="BI" iso3="BDI" iana=".bi" un="RU" ioc="BDI" fips="" />
+  <country itu="855" name="CAMBODIA" arabicName="" latitude="13 00 N" longitude="105 00 E" iso2="KH" iso3="KHM" iana=".kh" un="K" ioc="CAM" fips="" />
+  <country itu="237" name="CAMEROON" arabicName="" latitude="6 00 N" longitude="12 00 E" iso2="CM" iso3="CMR" iana=".cm" un="CAM" ioc="CMR" fips="" />
+  <country itu="1" name="CANADA" arabicName="كندا" latitude="60 00 N" longitude="95 00 W" iso2="CA" iso3="CAN" iana=".ca" un="CDN" ioc="CAN" fips="" />
+  <country itu="238" name="CAPE VERDE" arabicName="" latitude="16 00 N" longitude="24 00 W" iso2="CV" iso3="CPV" iana=".cv" un="" ioc="CPV" fips="" />
+  <country itu="1-345" name="CAYMAN ISLANDS" arabicName="" latitude="19 30 N" longitude="80 30 W" iso2="KY" iso3="CYM" iana=".ky" un="" ioc="CAY" fips="" />
+  <country itu="236" name="CENTRAL AFRICAN REPUBLIC" arabicName="" latitude="7 00 N" longitude="21 00 E" iso2="CF" iso3="CAF" iana=".cf" un="RCA" ioc="CAF" fips="" />
+  <country itu="235" name="CHAD" arabicName="" latitude="15 00 N" longitude="19 00 E" iso2="TD" iso3="TCD" iana=".td" un="TCH" ioc="CHA" fips="" />
+  <country itu="" name="CHANNEL ISLANDS" arabicName="" latitude="" longitude="" iso2="" iso3="" iana="" un="" ioc="" fips="" />
+  <country itu="56" name="CHILE" arabicName="" latitude="30 00 S" longitude="71 00 W" iso2="CL" iso3="CHL" iana=".cl" un="RCH" ioc="CHI" fips="" />
+  <country itu="86" name="CHINA" arabicName="" latitude="35 00 N" longitude="105 00 E" iso2="CN" iso3="CHN" iana=".cn" un="" ioc="CHN" fips="" />
+  <country itu="" name="CHRISTMAS ISLAND" arabicName="" latitude="10 30 S" longitude="105 40 E" iso2="CX" iso3="CXR" iana=".cx" un="" ioc="" fips="" />
+  <country itu="" name="COCOS (KEELING) ISLANDS" arabicName="" latitude="12 30 S" longitude="96 50 E" iso2="CC" iso3="CCK" iana=".cc" un="" ioc="" fips="" />
+  <country itu="57" name="COLOMBIA" arabicName="" latitude="4 00 N" longitude="72 00 W" iso2="CO" iso3="COL" iana=".co" un="CO" ioc="COL" fips="" />
+  <country itu="269" name="COMOROS" arabicName="" latitude="12 10 S" longitude="44 15 E" iso2="KM" iso3="COM" iana=".km" un="" ioc="COM" fips="" />
+  <country itu="242" name="CONGO, REPUBLIC OF" arabicName="" latitude="1 00 S" longitude="15 00 E" iso2="CG" iso3="COG" iana=".cg" un="RCB" ioc="CGO" fips="" />
+  <country itu="243" name="CONGO, THE DEMOCRATIC REPUBLIC OF" arabicName="" latitude="0 00 N" longitude="25 00 E" iso2="CD" iso3="COD" iana=".cd" un="ZRE" ioc="COD" fips="" />
+  <country itu="682" name="COOK ISLANDS" arabicName="" latitude="21 14 S" longitude="159 46 W" iso2="CK" iso3="COK" iana=".ck" un="" ioc="COK" fips="" />
+  <country itu="506" name="COSTA RICA" arabicName="" latitude="10 00 N" longitude="84 00 W" iso2="CR" iso3="CRI" iana=".cr" un="CR" ioc="CRC" fips="" />
+  <country itu="225" name="IVORY COAST" arabicName="" latitude="8 00 N" longitude="5 00 W" iso2="CI" iso3="CIV" iana=".ci" un="CI" ioc="CIV" fips="" />
+  <country itu="385" name="CROATIA" arabicName="" latitude="45 10 N" longitude="15 30 E" iso2="HR" iso3="HRV" iana=".hr" un="HR" ioc="CRO" fips="" />
+  <country itu="53" name="CUBA" arabicName="" latitude="21 30 N" longitude="80 00 W" iso2="CU" iso3="CUB" iana=".cu" un="CU" ioc="CUB" fips="" />
+  <country itu="357" name="CYPRUS" arabicName="" latitude="35 00 N" longitude="33 00 E" iso2="CY" iso3="CYP" iana=".cy" un="CY" ioc="CYP" fips="" />
+  <country itu="420" name="CZECH" arabicName="" latitude="49 45 N" longitude="15 30 E" iso2="CZ" iso3="CZE" iana=".cz" un="CZ" ioc="CZE" fips="" />
+  <country itu="45" name="DENMARK" arabicName="" latitude="56 00 N" longitude="10 00 E" iso2="DK" iso3="DNK" iana=".dk" un="DK" ioc="DEN" fips="" />
+  <country itu="253" name="DJIBOUTI" arabicName="" latitude="11 30 N" longitude="43 00 E" iso2="DJ" iso3="DJI" iana=".dj" un="" ioc="DJI" fips="" />
+  <country itu="1-767" name="DOMINICA" arabicName="" latitude="15 25 N" longitude="61 20 W" iso2="DM" iso3="DMA" iana=".dm" un="WD" ioc="DMA" fips="" />
+  <country itu="1-809" name="DOMINICAN" arabicName="" latitude="19 00 N" longitude="70 40 W" iso2="DO" iso3="DOM" iana=".do" un="DOM" ioc="DOM" fips="" />
+  <country itu="593" name="ECUADOR" arabicName="" latitude="2 00 S" longitude="77 30 W" iso2="EC" iso3="ECU" iana=".ec" un="EC" ioc="ECU" fips="" />
+  <country itu="20" name="EGYPT" arabicName="مصر" latitude="27 00 N" longitude="30 00 E" iso2="EG" iso3="EGY" iana=".eg" un="ET" ioc="EGY" fips="" />
+  <country itu="503" name="EL SALVADOR" arabicName="" latitude="13 50 N" longitude="88 55 W" iso2="SV" iso3="SLV" iana=".sv" un="ES" ioc="ESA" fips="" />
+  <country itu="240" name="GUINEA" arabicName="" latitude="2 00 N" longitude="10 00 E" iso2="GQ" iso3="GNQ" iana=".gq" un="" ioc="GEQ" fips="" />
+  <country itu="291" name="ERITREA" arabicName="" latitude="15 00 N" longitude="39 00 E" iso2="ER" iso3="ERI" iana=".er" un="" ioc="ERI" fips="" />
+  <country itu="372" name="ESTONIA" arabicName="" latitude="59 00 N" longitude="26 00 E" iso2="EE" iso3="EST" iana=".ee" un="EST" ioc="EST" fips="" />
+  <country itu="251" name="ETHIOPIA" arabicName="" latitude="8 00 N" longitude="38 00 E " iso2="ET" iso3="ETH" iana=".et" un="ETH" ioc="ETH" fips="" />
+  <!--country id="" name="EUROPEAN UNION" arabicName="" latitude="" longitude="" iso2="" iso3="" iana=".eu" un="" ioc="" itu=""/-->
+  <country itu="298" name="FAEROE" arabicName="" latitude="62 00 N" longitude="7 00 W" iso2="FO" iso3="FRO" iana=".fo" un="FR" ioc="" fips="" />
+  <country itu="500" name="FALKLAND" arabicName="" latitude="51 45 S" longitude="59 00 W" iso2="FK" iso3="FLK" iana=".fk" un="" ioc="" fips="" />
+  <country itu="679" name="FIJI" arabicName="" latitude="18 00 S" longitude="175 00 E" iso2="FJ" iso3="FJI" iana=".fj" un="FJI" ioc="FIJ" fips="" />
+  <country itu="358" name="FINLAND" arabicName="" latitude="64 00 N" longitude="26 00 E" iso2="FI" iso3="FIN" iana=".fi" un="FIN" ioc="FIN" fips="" />
+  <country itu="33" name="FRANCE" arabicName="فرنسا" latitude="46 00 N" longitude="2 00 E" iso2="FR" iso3="FRA" iana=".fr" un="F" ioc="FRA" fips="" />
+  <country itu="594" name="GUIANA" arabicName="" latitude="" longitude="" iso2="GF" iso3="GUF" iana=".gf" un="" ioc="" fips="" />
+  <country itu="689" name="POLYNESIA" arabicName="" latitude="15 00 S" longitude="140 00 W" iso2="PF" iso3="PYF" iana=".pf" un="" ioc="" fips="" />
+  <country itu="" name="FRENCH SOUTHERN TERRITORIES" arabicName="" latitude="" longitude="" iso2="TF" iso3="ATF" iana=".tf" un="" ioc="" fips="" />
+  <country itu="241" name="GABON" arabicName="" latitude="1 00 S" longitude="11 45 E" iso2="GA" iso3="GAB" iana=".ga" un="G" ioc="GAB" fips="" />
+  <country itu="220" name="GAMBIA, THE" arabicName="" latitude="13 28 N" longitude="16 34 W" iso2="GM" iso3="GMB" iana=".gm" un="WAG" ioc="GAM" fips="" />
+  <country itu="" name="GEORGIA" arabicName="" latitude="42 00 N" longitude="43 30 E" iso2="GE" iso3="GEO" iana=".ge" un="GE" ioc="GEO" fips="" />
+  <country itu="49" name="GERMANY" arabicName="" latitude="51 00 N" longitude="9 00 E" iso2="DE" iso3="DEU" iana=".de" un="D" ioc="GER" fips="" />
+  <country itu="233" name="GHANA" arabicName="" latitude="8 00 N" longitude="2 00 W" iso2="GH" iso3="GHA" iana=".gh" un="GH" ioc="GHA" fips="" />
+  <country itu="350" name="GIBRALTAR" arabicName="" latitude="36 08 N" longitude="5 21 W" iso2="GI" iso3="GIB" iana=".gi" un="GBZ" ioc="" fips="" />
+  <country itu="44" name="GREAT BRITAIN" arabicName="" latitude="" longitude="" iso2="GB" iso3="GBR" iana=".uk" un="GB" ioc="GBR" fips="" />
+  <country itu="30" name="GREECE" arabicName="" latitude="39 00 N" longitude="22 00 E" iso2="GR" iso3="GRC" iana=".gr" un="GR" ioc="GRE" fips="" />
+  <country itu="299" name="GREENLAND" arabicName="" latitude="72 00 N" longitude="40 00 W" iso2="GL" iso3="GRL" iana=".gl" un="" ioc="" fips="" />
+  <country itu="1-473" name="GRENADA" arabicName="" latitude="12 07 N" longitude="61 40 W" iso2="GD" iso3="GRD" iana=".gd" un="WG" ioc="GRN" fips="" />
+  <country itu="590" name="GUADELOUPE" arabicName="" latitude="" longitude="" iso2="GP" iso3="GLP" iana=".gp" un="" ioc="" fips="" />
+  <country itu="1-671" name="GUAM" arabicName="" latitude="13 28 N" longitude="144 47 E" iso2="GU" iso3="GUM" iana=".gu" un="" ioc="GUM" fips="" />
+  <country itu="502" name="GUATEMALA" arabicName="" latitude="15 30 N" longitude="90 15 W" iso2="GT" iso3="GTM" iana=".gt" un="GCA" ioc="GUA" fips="" />
+  <!--country id="" name="GUERNSEY" arabicName="" latitude="49 28 N" longitude="2 35 W" iso2="GG" iso3="GGY" iana=".gg" un="GBG" ioc="" itu=""/-->
+  <country itu="224" name="GUINEA" arabicName="" latitude="11 00 N" longitude="10 00 W" iso2="GN" iso3="GIN" iana=".gn" un="RG" ioc="GUI" fips="" />
+  <country itu="245" name="GUINEA-BISSAU" arabicName="" latitude="12 00 N" longitude="15 00 W" iso2="GW" iso3="GNB" iana=".gw" un="" ioc="GBS" fips="" />
+  <country itu="592" name="GUYANA" arabicName="" latitude="5 00 N" longitude="59 00 W" iso2="GY" iso3="GUY" iana=".gy" un="GUY" ioc="GUY" fips="" />
+  <country itu="509" name="HAITI" arabicName="" latitude="19 00 N" longitude="72 25 W" iso2="HT" iso3="HTI" iana=".ht" un="RH" ioc="HAI" fips="" />
+  <country itu="" name="HEARD AND MCDONALD" arabicName="" latitude="53 06 S" longitude="72 31 E" iso2="HM" iso3="HMD" iana=".hm" un="" ioc="" fips="" />
+  <country itu="504" name="HONDURAS" arabicName="" latitude="15 00 N" longitude="86 30 W" iso2="HN" iso3="HND" iana=".hn" un="" ioc="HON" fips="" />
+  <country itu="852" name="HONG KONG" arabicName="" latitude="22 15 N" longitude="114 10 E" iso2="HK" iso3="HKG" iana=".hk" un="" ioc="HKG" fips="" />
+  <country itu="36" name="HUNGARY" arabicName="" latitude="47 00 N" longitude="20 00 E" iso2="HU" iso3="HUN" iana=".hu" un="H" ioc="HUN" fips="" />
+  <country itu="354" name="ICELAND" arabicName="" latitude="65 00 N" longitude="18 00 W" iso2="IS" iso3="ISL" iana=".is" un="IS" ioc="ISL" fips="" />
+  <country itu="91" name="INDIA" arabicName="" latitude="20 00 N" longitude="77 00 E" iso2="IN" iso3="IND" iana=".in" un="IND" ioc="IND" fips="" />
+  <country itu="62" name="INDONESIA" arabicName="" latitude="5 00 S" longitude="120 00 E" iso2="ID" iso3="IDN" iana=".id" un="RI" ioc="INA" fips="" />
+  <!-- country id="" name="INTERNATIONAL ORGANIZATIONS" arabicName="" latitude="" longitude="" iso2="" iso3="" iana=".int" un="" ioc="" itu=""/-->
+  <country itu="98" name="IRAN" arabicName="إيران" latitude="32 00 N" longitude="53 00 E" iso2="IR" iso3="IRN" iana=".ir" un="IR" ioc="IRI" fips="" />
+  <country itu="964" name="IRAQ" arabicName="العراق" latitude="33 00 N" longitude="44 00 E" iso2="IQ" iso3="IRQ" iana=".iq" un="IRQ" ioc="IRQ" fips="iz" />
+  <country itu="353" name="IRELAND" arabicName="" latitude="53 00 N" longitude="8 00 W" iso2="IE" iso3="IRL" iana=".ie" un="IRL" ioc="IRL" fips="" />
+  <country itu="" name="ISLE OF MAN" arabicName="" latitude="54 15 N" longitude="4 30 W" iso2="IM" iso3="IMN" iana=".im" un="GBM" ioc="" fips="" />
+  <country itu="972" name="ISRAEL" arabicName="" latitude="31 30 N" longitude="34 45 E" iso2="IL" iso3="ISR" iana=".il" un="IL" ioc="ISR" fips="" />
+  <country itu="39" name="ITALY" arabicName="" latitude="42 50 N" longitude="12 50 E" iso2="IT" iso3="ITA" iana=".it" un="I" ioc="ITA" fips="" />
+  <country itu="1-876" name="JAMAICA" arabicName="" latitude="18 15 N" longitude="77 30 W" iso2="JM" iso3="JAM" iana=".jm" un="JA" ioc="JAM" fips="" />
+  <country itu="81" name="JAPAN" arabicName="" latitude="36 00 N" longitude="138 00 E" iso2="JP" iso3="JPN" iana=".jp" un="J" ioc="JPN" fips="" />
+  <!--country id="" name="JERSEY" arabicName="" latitude="49 15 N" longitude="2 10 W" iso2="JE" iso3="JEY" iana=".je" un="GBJ" ioc="" itu=""/-->
+  <country itu="962" name="JORDAN" arabicName="الأردن" latitude="31 00 N" longitude="36 00 E" iso2="JO" iso3="JOR" iana=".jo" un="HKJ" ioc="JOR" fips="" />
+  <country itu="7" name="KAZAKHSTAN" arabicName="" latitude="48 00 N" longitude="68 00 E" iso2="KZ" iso3="KAZ" iana=".kz" un="KZ" ioc="KAZ" fips="" />
+  <country itu="254" name="KENYA" arabicName="" latitude="1 00 N" longitude="38 00 E" iso2="KE" iso3="KEN" iana=".ke" un="EAK" ioc="KEN" fips="" />
+  <country itu="686" name="KIRIBATI" arabicName="" latitude="1 25 N" longitude="173 00 E" iso2="KI" iso3="KIR" iana=".ki" un="" ioc="KIR" fips="" />
+  <country itu="850" name="KOREA" arabicName="" latitude="40 00 N" longitude="127 00 E" iso2="KP" iso3="PRK" iana=".kp" un="" ioc="PRK" fips="" />
+  <country itu="82" name="KOREA" arabicName="" latitude="37 00 N" longitude="127 30 E" iso2="KR" iso3="KOR" iana=".kr" un="ROK" ioc="KOR" fips="" />
+  <country itu="965" name="KUWAIT" arabicName="الكويت" latitude="29 30 N" longitude="45 45 E" iso2="KW" iso3="KWT" iana=".kw" un="KWT" ioc="KUW" fips="ku" />
+  <country itu="996" name="KYRGYZSTAN" arabicName="" latitude="41 00 N" longitude="75 00 E" iso2="KG" iso3="KGZ" iana=".kg" un="KS" ioc="KGZ" fips="" />
+  <country itu="856" name="LAO" arabicName="" latitude="18 00 N" longitude="105 00 E" iso2="LA" iso3="LAO" iana=".la" un="LAO" ioc="LAO" fips="" />
+  <country itu="371" name="LATVIA" arabicName="" latitude="57 00 N" longitude="25 00 E" iso2="LV" iso3="LVA" iana=".lv" un="LV" ioc="LAT" fips="" />
+  <country itu="961" name="LEBANON" arabicName="لبنان" latitude="33 50 N" longitude="35 50 E" iso2="LB" iso3="LBN" iana=".lb" un="RL" ioc="LIB" fips="" />
+  <country itu="266" name="LESOTHO" arabicName="" latitude="29 30 S" longitude="28 30 E" iso2="LS" iso3="LSO" iana=".ls" un="LS" ioc="LES" fips="" />
+  <country itu="231" name="LIBERIA" arabicName="" latitude="6 30 N" longitude="9 30 W" iso2="LR" iso3="LBR" iana=".lr" un="LB" ioc="LBR" fips="" />
+  <country itu="218" name="LIBYA" arabicName="ليبيا" latitude="25 00 N" longitude="17 00 E" iso2="LY" iso3="LBY" iana=".ly" un="LAR" ioc="LBA" fips="" />
+  <country itu="423" name="LIECHTENSTEIN" arabicName="" latitude="47 16 N" longitude="9 32 E" iso2="LI" iso3="LIE" iana=".li" un="FL" ioc="LIE" fips="" />
+  <country itu="370" name="LITHUANIA" arabicName="" latitude="56 00 N" longitude="24 00 E" iso2="LT" iso3="LTU" iana=".lt" un="LT" ioc="LTU" fips="" />
+  <country itu="352" name="LUXEMBOURG" arabicName="" latitude="49 45 N" longitude="6 10 E" iso2="LU" iso3="LUX" iana=".lu" un="L" ioc="LUX" fips="" />
+  <country itu="853" name="MACAO" arabicName="" latitude="22 10 N" longitude="113 33 E" iso2="MO" iso3="MAC" iana=".mo" un="" ioc="" fips="" />
+  <country itu="389" name="MACEDONIA" arabicName="" latitude="41 50 N" longitude="22 00 E" iso2="MK" iso3="MKD" iana=".mk" un="MK" ioc="MKD" fips="" />
+  <country itu="261" name="MADAGASCAR" arabicName="" latitude="20 00 S" longitude="47 00 E" iso2="MG" iso3="MDG" iana=".mg" un="RM" ioc="MAD" fips="" />
+  <country itu="265" name="MALAWI" arabicName="" latitude="13 30 S" longitude="34 00 E" iso2="MW" iso3="MWI" iana=".mw" un="MW" ioc="MAW" fips="" />
+  <country itu="60" name="MALAYSIA" arabicName="" latitude="2 30 N" longitude="112 30 E" iso2="MY" iso3="MYS" iana=".my" un="MAL" ioc="MAS" fips="" />
+  <country itu="960" name="MALDIVES" arabicName="" latitude="3 15 N" longitude="73 00 E" iso2="MV" iso3="MDV" iana=".mv" un="" ioc="MDV" fips="" />
+  <country itu="223" name="MALI" arabicName="" latitude="17 00 N" longitude="4 00 W" iso2="ML" iso3="MLI" iana=".ml" un="RMM" ioc="MLI" fips="" />
+  <country itu="356" name="MALTA" arabicName="" latitude="35 50 N" longitude="14 35 E" iso2="MT" iso3="MLT" iana=".mt" un="M" ioc="MLT" fips="" />
+  <country itu="692" name="MARSHALL ISLANDS" arabicName="" latitude="9 00 N" longitude="168 00 E" iso2="MH" iso3="MHL" iana=".mh" un="" ioc="MHL" fips="" />
+  <country itu="596" name="MARTINIQUE" arabicName="" latitude="" longitude="" iso2="MQ" iso3="MTQ" iana=".mq" un="" ioc="" fips="" />
+  <country itu="222" name="MAURITANIA" arabicName="موريتانيا" latitude="20 00 N" longitude="12 00 W" iso2="MR" iso3="MRT" iana=".mr" un="RIM" ioc="MTN" fips="" />
+  <country itu="230" name="MAURITIUS" arabicName="" latitude="20 17 S" longitude="57 33 E" iso2="MU" iso3="MUS" iana=".mu" un="MS" ioc="MRI" fips="" />
+  <country itu="269" name="MAYOTTE" arabicName="" latitude="" longitude="" iso2="YT" iso3="MYT" iana=".yt" un="" ioc="" fips="" />
+  <country itu="52" name="MEXICO" arabicName="" latitude="23 00 N" longitude="102 00 W" iso2="MX" iso3="MEX" iana=".mx" un="MEX" ioc="MEX" fips="" />
+  <country itu="691" name="MICRONESIA" arabicName="" latitude="6 55 N" longitude="158 15 E" iso2="FM" iso3="FSM" iana=".fm" un="" ioc="FSM" fips="" />
+  <country itu="373" name="MOLDOVA" arabicName="" latitude="47 00 N" longitude="29 00 E" iso2="MD" iso3="MDA" iana=".md" un="MD" ioc="MDA" fips="" />
+  <country itu="377" name="MONACO" arabicName="" latitude="43 44 N" longitude="7 24 E" iso2="MC" iso3="MCO" iana=".mc" un="MC" ioc="MON" fips="" />
+  <country itu="976" name="MONGOLIA" arabicName="" latitude="46 00 N" longitude="105 00 E" iso2="MN" iso3="MNG" iana=".mn" un="MGL" ioc="MGL" fips="" />
+  <country itu="382" name="MONTENEGRO" arabicName="" latitude="42 30 N" longitude="19 18 E" iso2="ME" iso3="MNE" iana=".me" un="MNE" ioc="MNE" fips="" />
+  <country itu="1-664" name="MONTSERRAT" arabicName="" latitude="16 45 N" longitude="62 12 W" iso2="MS" iso3="MSR" iana=".ms" un="" ioc="" fips="" />
+  <country itu="212" name="MOROCCO" arabicName="المغرب" latitude="32 00 N" longitude="5 00 W" iso2="MA" iso3="MAR" iana=".ma" un="MA" ioc="MAR" fips="" />
+  <country itu="258" name="MOZAMBIQUE" arabicName="" latitude="18 15 S" longitude="35 00 E" iso2="MZ" iso3="MOZ" iana=".mz" un="MOC" ioc="MOZ" fips="" />
+  <country itu="95" name="MYANMAR" arabicName="" latitude="22 00 N" longitude="98 00 E" iso2="MM" iso3="MMR" iana=".mm" un="BUR" ioc="MYA" fips="" />
+  <country itu="264" name="NAMIBIA" arabicName="" latitude="22 00 S" longitude="17 00 E" iso2="NA" iso3="NAM" iana=".na" un="NAM" ioc="NAM" fips="" />
+  <country itu="674" name="NAURU" arabicName="" latitude="0 32 S" longitude="166 55 E" iso2="NR" iso3="NRU" iana=".nr" un="NAU" ioc="NRU" fips="" />
+  <country itu="977" name="NEPAL" arabicName="" latitude="28 00 N" longitude="84 00 E" iso2="NP" iso3="NPL" iana=".np" un="NEP" ioc="NEP" fips="" />
+  <country itu="31" name="NETHERLANDS" arabicName="" latitude="52 30 N" longitude="5 45 E" iso2="NL" iso3="NLD" iana=".nl" un="NL" ioc="NED" fips="" />
+  <country itu="599" name="NETHERLANDS ANTILLES" arabicName="" latitude="" longitude="" iso2="AN" iso3="ANT" iana=".an" un="NA" ioc="AHO" fips="" />
+  <country itu="687" name="NEW CALEDONIA" arabicName="" latitude="21 30 S" longitude="165 30 E" iso2="NC" iso3="NCL" iana=".nc" un="" ioc="" fips="" />
+  <country itu="64" name="NEW ZEALAND" arabicName="" latitude="41 00 S" longitude="174 00 E" iso2="NZ" iso3="NZL" iana=".nz" un="NZ" ioc="NZL" fips="" />
+  <country itu="505" name="NICARAGUA" arabicName="" latitude="13 00 N" longitude="85 00 W" iso2="NI" iso3="NIC" iana=".ni" un="NIC" ioc="NCA" fips="" />
+  <country itu="227" name="NIGER" arabicName="" latitude="16 00 N" longitude="8 00 E" iso2="NE" iso3="NER" iana=".ne" un="RN" ioc="NIG" fips="" />
+  <country itu="234" name="NIGERIA" arabicName="" latitude="10 00 N" longitude="8 00 E" iso2="NG" iso3="NGA" iana=".ng" un="WAN" ioc="NGR" fips="" />
+  <country itu="683" name="NIUE" arabicName="" latitude="19 02 S" longitude="169 52 W" iso2="NU" iso3="NIU" iana=".nu" un="" ioc="" fips="" />
+  <country itu="" name="NORFOLK ISLAND" arabicName="" latitude="29 02 S" longitude="167 57 E" iso2="NF" iso3="NFK" iana=".nf" un="" ioc="" fips="" />
+  <country itu="1-670" name="NORTHERN MARIANA ISLANDS" arabicName="" latitude="15 12 N" longitude="145 45 E" iso2="MP" iso3="MNP" iana=".mp" un="" ioc="" fips="" />
+  <country itu="47" name="NORWAY" arabicName="" latitude="62 00 N" longitude="10 00 E" iso2="NO" iso3="NOR" iana=".no" un="N" ioc="NOR" fips="" />
+  <country itu="968" name="OMAN" arabicName="عُمان" latitude="21 00 N" longitude="57 00 E" iso2="OM" iso3="OMN" iana=".om" un="" ioc="OMA" fips="mu" />
+  <country itu="92" name="PAKISTAN" arabicName="" latitude="30 00 N" longitude="70 00 E" iso2="PK" iso3="PAK" iana=".pk" un="PK" ioc="PAK" fips="" />
+  <country itu="680" name="PALAU" arabicName="" latitude="7 30 N" longitude="134 30 E" iso2="PW" iso3="PLW" iana=".pw" un="" ioc="PLW" fips="" />
+  <country itu="970" name="PALESTIN" arabicName="فلسطين" latitude="" longitude="" iso2="PS" iso3="PSE" iana=".ps" un="" ioc="PLE" fips="" />
+  <country itu="507" name="PANAMA" arabicName="" latitude="9 00 N" longitude="80 00 W" iso2="PA" iso3="PAN" iana=".pa" un="PA" ioc="PAN" fips="" />
+  <country itu="675" name="PAPUA NEW GUINEA" arabicName="" latitude="6 00 S" longitude="147 00 E" iso2="PG" iso3="PNG" iana=".pg" un="PNG" ioc="PNG" fips="" />
+  <country itu="595" name="PARAGUAY" arabicName="" latitude="23 00 S" longitude="58 00 W" iso2="PY" iso3="PRY" iana=".py" un="PY" ioc="PAR" fips="" />
+  <country itu="51" name="PERU" arabicName="" latitude="10 00 S" longitude="76 00 W" iso2="PE" iso3="PER" iana=".pe" un="PE" ioc="PER" fips="" />
+  <country itu="63" name="PHILIPPINES" arabicName="" latitude="13 00 N" longitude="122 00 E" iso2="PH" iso3="PHL" iana=".ph" un="RP" ioc="PHI" fips="" />
+  <country itu="" name="PITCAIRN" arabicName="" latitude="25 04 S" longitude="130 06 W" iso2="PN" iso3="PCN" iana=".pn" un="" ioc="" fips="" />
+  <country itu="48" name="POLAND" arabicName="" latitude="52 00 N" longitude="20 00 E" iso2="PL" iso3="POL" iana=".pl" un="PL" ioc="POL" fips="" />
+  <country itu="351" name="PORTUGAL" arabicName="" latitude="39 30 N" longitude="8 00 W" iso2="PT" iso3="PRT" iana=".pt" un="P" ioc="POR" fips="" />
+  <country itu="1" name="PUERTO RICO" arabicName="" latitude="18 15 N" longitude="66 30 W" iso2="PR" iso3="PRI" iana=".pr" un="" ioc="PUR" fips="" />
+  <country itu="974" name="QATAR" arabicName="قطر" latitude="25 30 N" longitude="51 15 E" iso2="QA" iso3="QAT" iana=".qa" un="Q" ioc="QAT" fips="" />
+  <country itu="262" name="RÉUNION" arabicName="" latitude="" longitude="" iso2="RE" iso3="REU" iana=".re" un="" ioc="" fips="" />
+  <country itu="40" name="ROMANIA" arabicName="" latitude="46 00 N" longitude="25 00 E" iso2="RO" iso3="ROU" iana=".ro" un="RO" ioc="ROU" fips="" />
+  <country itu="7" name="RUSSIA" arabicName="" latitude="60 00 N" longitude="100 00 E" iso2="RU" iso3="RUS" iana=".ru" un="RUS" ioc="RUS" fips="" />
+  <country itu="250" name="RWANDA" arabicName="" latitude="2 00 S" longitude="30 00 E" iso2="RW" iso3="RWA" iana=".rw" un="RWA" ioc="RWA" fips="" />
+  <country itu="" name="SAINT BARTHÉLEMY" arabicName="" latitude="17 90 N" longitude="62 85 W" iso2="BL" iso3="BLM" iana=".bl" un="" ioc="" fips="" />
+  <country itu="290" name="SAINT HELENA" arabicName="" latitude="" longitude="" iso2="SH" iso3="SHN" iana=".sh" un="" ioc="" fips="" />
+  <country itu="1-869" name="SAINT KITTS AND NEVIS" arabicName="" latitude="17 20 N" longitude="62 45 W" iso2="KN" iso3="KNA" iana=".kn" un="" ioc="SKN" fips="" />
+  <country itu="1-758" name="SAINT LUCIA" arabicName="" latitude="13 53 N" longitude="60 58 W" iso2="LC" iso3="LCA" iana=".lc" un="WL" ioc="LCA" fips="" />
+  <country itu="" name="SAINT MARTIN" arabicName="" latitude="18 05 N" longitude="63 57 W" iso2="MF" iso3="MAF" iana=".mf" un="" ioc="" fips="" />
+  <country itu="508" name="SAINT PIERRE AND MIQUELON" arabicName="" latitude="46 50 N" longitude="56 20 W" iso2="PM" iso3="SPM" iana=".pm" un="" ioc="" fips="" />
+  <country itu="1-784" name="SAINT VINCENT AND THE GRENADINES" arabicName="" latitude="13 15 N" longitude="61 12 W" iso2="VC" iso3="VCT" iana=".vc" un="WV" ioc="VIN" fips="" />
+  <country itu="685" name="SAMOA" arabicName="" latitude="13 35 S" longitude="172 20 W" iso2="WS" iso3="WSM" iana=".ws" un="WS" ioc="SAM" fips="" />
+  <country itu="378" name="SAN MARINO" arabicName="" latitude="43 46 N" longitude="12 25 E" iso2="SM" iso3="SMR" iana=".sm" un="RSM" ioc="SMR" fips="" />
+  <country itu="239" name="SAO TOME AND PRINCIPE" arabicName="" latitude="1 00 N" longitude="7 00 E" iso2="ST" iso3="STP" iana=".st" un="" ioc="STP" fips="" />
+  <country itu="966" name="SAUDI ARABIA" arabicName="السعودية" latitude="25 00 N" longitude="45 00 E" iso2="SA" iso3="SAU" iana=".sa" un="SA" ioc="KSA" fips="" />
+  <country itu="221" name="SENEGAL" arabicName="" latitude="14 00 N" longitude="14 00 W" iso2="SN" iso3="SEN" iana=".sn" un="SN" ioc="SEN" fips="" />
+  <country itu="381" name="SERBIA" arabicName="" latitude="44 00 N" longitude="21 00 E" iso2="RS" iso3="SRB" iana=".rs" un="" ioc="SRB" fips="" />
+  <country itu="248" name="SEYCHELLES" arabicName="" latitude="4 35 S" longitude="55 40 E" iso2="SC" iso3="SYC" iana=".sc" un="SY" ioc="SEY" fips="" />
+  <country itu="232" name="SIERRA LEONE" arabicName="" latitude="8 30 N" longitude="11 30 W" iso2="SL" iso3="SLE" iana=".sl" un="WAL" ioc="SLE" fips="" />
+  <country itu="65" name="SINGAPORE" arabicName="" latitude="1 22 N" longitude="103 48 E" iso2="SG" iso3="SGP" iana=".sg" un="SGP" ioc="SIN" fips="" />
+  <country itu="421" name="SLOVAKIA" arabicName="" latitude="48 40 N" longitude="19 30 E" iso2="SK" iso3="SVK" iana=".sk" un="SK" ioc="SVK" fips="" />
+  <country itu="386" name="SLOVENIA" arabicName="" latitude="46 07 N" longitude="14 49 E" iso2="SI" iso3="SVN" iana=".si" un="SLO" ioc="SLO" fips="" />
+  <country itu="677" name="SOLOMON ISLANDS" arabicName="" latitude="8 00 S" longitude="159 00 E" iso2="SB" iso3="SLB" iana=".sb" un="" ioc="SOL" fips="" />
+  <country itu="252" name="SOMALIA" arabicName="الصومال" latitude="10 00 N" longitude="49 00 E" iso2="SO" iso3="SOM" iana=".so" un="SO" ioc="SOM" fips="" />
+  <country itu="27" name="SOUTH AFRICA" arabicName="" latitude="29 00 S" longitude="24 00 E" iso2="ZA" iso3="ZAF" iana=".za" un="ZA" ioc="RSA" fips="" />
+  <country itu="" name="GEORGIA AND SANDWICH ISLANDS" arabicName="" latitude="54 30 S" longitude="37 00 W" iso2="GS" iso3="SGS" iana=".gs" un="" ioc="" fips="" />
+  <!--country id="" name="SOVIET UNION (Internet code still used)" arabicName="" latitude="" longitude="" iso2="" iso3="" iana=".su" un="" ioc="" itu=""/-->
+  <country itu="34" name="SPAIN" arabicName="" latitude="40 00 N" longitude="4 00 W" iso2="ES" iso3="ESP" iana=".es" un="E" ioc="ESP" fips="" />
+  <country itu="94" name="SRI LANKA" arabicName="" latitude="7 00 N" longitude="81 00 E" iso2="LK" iso3="LKA" iana=".lk" un="CL" ioc="SRI" fips="" />
+  <country itu="249" name="SUDAN" arabicName="السودان" latitude="15 00 N" longitude="30 00 E" iso2="SD" iso3="SDN" iana=".sd" un="SUD" ioc="SUD" fips="" />
+  <country itu="597" name="SURINAME" arabicName="" latitude="4 00 N" longitude="56 00 W" iso2="SR" iso3="SUR" iana=".sr" un="SME" ioc="SUR" fips="" />
+  <country itu="" name="SVALBARD AND JAN MAYEN" arabicName="" latitude="78 00 N" longitude="20 00 E" iso2="SJ" iso3="SJM" iana=".sj" un="" ioc="" fips="" />
+  <country itu="268" name="SWAZILAND" arabicName="" latitude="26 30 S" longitude="31 30 E" iso2="SZ" iso3="SWZ" iana=".sz" un="SD" ioc="SWZ" fips="" />
+  <country itu="46" name="SWEDEN" arabicName="" latitude="62 00 N" longitude="15 00 E" iso2="SE" iso3="SWE" iana=".se" un="S" ioc="SWE" fips="" />
+  <country itu="41" name="SWITZERLAND" arabicName="" latitude="47 00 N" longitude="8 00 E" iso2="CH" iso3="CHE" iana=".ch" un="CH" ioc="SUI" fips="" />
+  <country itu="963" name="SYRIA" arabicName="سوريا" latitude="35 00 N" longitude="38 00 E" iso2="SY" iso3="SYR" iana=".sy" un="SYR" ioc="SYR" fips="" />
+  <country itu="886" name="TAIWAN" arabicName="" latitude="23 30 N" longitude="121 00 E" iso2="TW" iso3="TWN" iana=".tw" un="" ioc="TPE" fips="" />
+  <country itu="992" name="TAJIKISTAN" arabicName="" latitude="39 00 N" longitude="71 00 E" iso2="TJ" iso3="TJK" iana=".tj" un="TJ" ioc="TJK" fips="" />
+  <!--country id="" name="TANGANYIKA" arabicName="" latitude="" longitude="" iso2="" iso3="" iana="" un="EAT" ioc="" itu=""/-->
+  <country itu="255" name="TANZANIA" arabicName="" latitude="6 00 S" longitude="35 00 E" iso2="TZ" iso3="TZA" iana=".tz" un="" ioc="TAN" fips="" />
+  <country itu="66" name="THAILAND" arabicName="" latitude="15 00 N" longitude="100 00 E" iso2="TH" iso3="THA" iana=".th" un="T" ioc="THA" fips="" />
+  <country itu="670" name="TIMOR" arabicName="" latitude="8 50 S" longitude="125 55 E" iso2="TL" iso3="TLS" iana=".tl" un="" ioc="TLS" fips="" />
+  <country itu="228" name="TOGO" arabicName="" latitude="8 00 N" longitude="1 10 E" iso2="TG" iso3="TGO" iana=".tg" un="TG" ioc="TOG" fips="" />
+  <country itu="690" name="TOKELAU" arabicName="" latitude="9 00 S" longitude="172 00 W" iso2="TK" iso3="TKL" iana=".tk" un="" ioc="" fips="" />
+  <country itu="676" name="TONGA" arabicName="" latitude="20 00 S" longitude="175 00 W" iso2="TO" iso3="TON" iana=".to" un="" ioc="TGA" fips="" />
+  <country itu="1-868" name="TRINIDAD AND TOBAGO" arabicName="" latitude="11 00 N" longitude="61 00 W" iso2="TT" iso3="TTO" iana=".tt" un="TT" ioc="TRI" fips="" />
+  <country itu="216" name="TUNISIA" arabicName="تونس" latitude="34 00 N" longitude="9 00 E" iso2="TN" iso3="TUN" iana=".tn" un="TN" ioc="TUN" fips="" />
+  <country itu="90" name="TURKEY" arabicName="تركيا" latitude="39 00 N" longitude="35 00 E" iso2="TR" iso3="TUR" iana=".tr" un="TR" ioc="TUR" fips="tu" />
+  <country itu="993" name="TURKMENISTAN" arabicName="" latitude="40 00 N" longitude="60 00 E" iso2="TM" iso3="TKM" iana=".tm" un="TM" ioc="TKM" fips="" />
+  <country itu="1-649" name="TURKS AND CAICOS ISLANDS" arabicName="" latitude="21 45 N" longitude="71 35 W" iso2="TC" iso3="TCA" iana=".tc" un="" ioc="" fips="" />
+  <country itu="688" name="TUVALU" arabicName="" latitude="8 00 S" longitude="178 00 E" iso2="TV" iso3="TUV" iana=".tv" un="" ioc="TUV" fips="" />
+  <country itu="256" name="UGANDA" arabicName="" latitude="1 00 N" longitude="32 00 E" iso2="UG" iso3="UGA" iana=".ug" un="EAU" ioc="UGA" fips="" />
+  <country itu="380" name="UKRAINE" arabicName="" latitude="49 00 N" longitude="32 00 E" iso2="UA" iso3="UKR" iana=".ua" un="UA" ioc="UKR" fips="" />
+  <country itu="971" name="UNITED ARAB EMIRATES" arabicName="الإمارات" latitude="24 00 N" longitude="54 00 E" iso2="AE" iso3="ARE" iana=".ae" un="" ioc="UAE" fips="ae" />
+  <country itu="44" name="UNITED KINGDOM" arabicName="المملكة المتحدة" latitude="54 00 N" longitude="2 00 W" iso2="GB" iso3="GBR" iana=".uk" un="" ioc="GBR" fips="" />
+  <country itu="1" name="UNITED STATES" arabicName="الولايات المتحدة الأميركية" latitude="38 00 N" longitude="97 00 W" iso2="US" iso3="USA" iana=".us" un="USA" ioc="USA" fips="" />
+  <country itu="" name="UNITED STATES MINOR OUTLYING ISLANDS" arabicName="" latitude="" longitude="" iso2="UM" iso3="UMI" iana=".um" un="" ioc="" fips="" />
+  <country itu="598" name="URUGUAY" arabicName="" latitude="33 00 S" longitude="56 00 W" iso2="UY" iso3="URY" iana=".uy" un="ROU" ioc="URU" fips="" />
+  <country itu="998" name="UZBEKISTAN" arabicName="" latitude="41 00 N" longitude="64 00 E" iso2="UZ" iso3="UZB" iana=".uz" un="UZ" ioc="UZB" fips="" />
+  <country itu="678" name="VANUATU" arabicName="" latitude="16 00 S" longitude="167 00 E" iso2="VU" iso3="VUT" iana=".vu" un="" ioc="VAN" fips="" />
+  <country itu="379" name="VATICAN CITY" arabicName="" latitude="41 54 N" longitude="12 27 E" iso2="VA" iso3="VAT" iana=".va" un="V" ioc="VAT" fips="" />
+  <country itu="58" name="VENEZUELA" arabicName="" latitude="8 00 N" longitude="66 00 W" iso2="VE" iso3="VEN" iana=".ve" un="YV" ioc="VEN" fips="" />
+  <country itu="84" name="VIET NAM" arabicName="" latitude="16 10 N" longitude="107 50 E" iso2="VN" iso3="VNM" iana=".vn" un="VN" ioc="VIE" fips="" />
+  <country itu="1-284" name="VIRGIN ISLANDS, BRITISH" arabicName="" latitude="" longitude="" iso2="VG" iso3="VGB" iana=".vg" un="BVI" ioc="IVB" fips="" />
+  <country itu="1-340" name="VIRGIN ISLANDS, U.S." arabicName="" latitude="" longitude="" iso2="VI" iso3="VIR" iana=".vi" un="" ioc="ISV" fips="" />
+  <!--country id="" name="YUGOSLAVIA (Internet code still used)" arabicName="" latitude="" longitude="" iso2="" iso3="" iana=".yu" un="" ioc="" itu=""/-->
+  <country itu="681" name="WALLIS AND FUTUNA" arabicName="" latitude="13 18 S" longitude="176 12 W" iso2="WF" iso3="WLF" iana=".wf" un="" ioc="" fips="" />
+  <country itu="" name="WESTERN SAHARA" arabicName="" latitude="24 30 N" longitude="13 00 W" iso2="EH" iso3="ESH" iana=".eh" un="" ioc="" fips="" />
+  <country itu="967" name="YEMEN" arabicName="اليمن" latitude="15 00 N" longitude="48 00 E" iso2="YE" iso3="YEM" iana=".ye" un="YAR" ioc="YEM" fips="ym" />
+  <country itu="260" name="ZAMBIA" arabicName="" latitude="15 00 S" longitude="30 00 E" iso2="ZM" iso3="ZMB" iana=".zm" un="RNR" ioc="ZAM" fips="" />
+  <!--country id="" name="ZANZIBAR" arabicName="" latitude="" longitude="" iso2="" iso3="" iana="" un="EAZ" ioc="" itu=""/-->
+  <country itu="263" name="ZIMBABWE" arabicName="" latitude="20 00 S" longitude="30 00 E" iso2="ZW" iso3="ZWE" iana=".zw" un="ZW" ioc="ZIM" fips="" />
+
+</countryList>

@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codeLibrary>
+<codeFile fileName="asp.net-state.cs" namespace="Ia.Cl.Model.AspNetState" className="View" summary="ASP.NET state support functions: Applications, Session, Coockies, Control."/>
+<codeFile fileName="authentication.cs" namespace="Ia.Cl.Model" className="Authentication" summary="Manage and verify user logging and passwords. The administrator will define the user's password and logging website. The service will issue a true of false according to authentication."/>
+<codeFile fileName="storage.cs" namespace="Ia.Cl.Model.Azure" className="Storage" summary="Azure Cloud related support functions."/>
+<codeFile fileName="country.cs" namespace="Ia.Cl.Model" className="Country" summary="Country geographic coordinates and standard UN naming conventions."/>
+<codeFile fileName="germany.cs" namespace="Ia.Cl.Model" className="Germany" summary="German cities and states."/>
+<codeFile fileName="kuwait.cs" namespace="Ia.Cl.Model" className="Kuwait" summary="Kuwait provinces, cities, and areas."/>
+<codeFile fileName="cryptography.cs" namespace="Ia.Cl.Model.Cryptography" className="Encryption" summary="Symmetric Key Algorithm (Rijndael/AES) to encrypt and decrypt data."/>
+<codeFile fileName="db.mysql.cs" namespace="Ia.Model.Db" className="MySql" summary="MySQL supporting class."/>
+<codeFile fileName="db.odbc.cs" namespace="Ia.Cl.Model.Db" className="Odbc" summary="ODBC support class."/>
+<codeFile fileName="db.oledb.cs" namespace="Ia.Cl.Model.Db" className="OleDb" summary="OLEDB support class"/>
+<codeFile fileName="db.oracle.cs" namespace="Ia.Cl.Model.Db" className="Oracle" summary="Oracle support class."/>
+<codeFile fileName="db.sqlite.cs" namespace="Ia.Cs.Db" className="Sqlite" summary="SQLite support class."/>
+<codeFile fileName="db.sqlserver.cs" namespace="Ia.Cl.Model.Db" className="SqlServer" summary="SQL Server support class."/>
+<codeFile fileName="db.sqlserverce.cs" namespace="Ia.Cs.Db" className="SqlServerCe" summary="SQL Server CE support class."/>
+<codeFile fileName="db.xml.cs" namespace="Ia.Cl.Model.Db" className="Xml" summary="XML Database support class. This handles storing and retrieving an XDocument, DataSet and Text storage."/>
+<codeFile fileName="default.cs" namespace="Ia.Cl.Model" className="Default" summary="General use static class of common functions used by most applications."/>
+<codeFile fileName="design.cs" namespace="Ia.Model.Design" className="Gv" summary="ASP.NET design related support class."/>
+<codeFile fileName="extention.cs" namespace="" className="Extention" summary="Extention methods for different class objects."/>
+<codeFile fileName="file.cs" namespace="Ia.Cl.Model" className="File" summary="File manipulation related support class."/>
+<codeFile fileName="ftp.cs" namespace="Ia.Cl.Model" className="Ftp" summary="A wrapper class for .NET 2.0 FTP"/>
+<codeFile fileName="geography.cs" namespace="Ia.Cl.Model.Geography" className="Location" summary="Geographic location related function, location, coordinates (latitude, longitude), bearing, degree and radian conversions, CMap value for resolution, and country geographic info-IP from MaxMind."/>
+<codeFile fileName="google.cs" namespace="Ia.Cl.Model.Google" className="StaticMap" summary="Google support class."/>
+<codeFile fileName="hijri.cs" namespace="Ia.Cl.Model" className="Hijri" summary="Hijri date handler class."/>
+<codeFile fileName="html.cs" namespace="Ia.Cl.Model" className="Html" summary="Handle HTML encoding, decoding functions."/>
+<codeFile fileName="http.cs" namespace="Ia.Cl.Model" className="Http" summary="Contains functions that relate to posting and receiving data from remote Internet/Intranet pages"/>
+<codeFile fileName="identity.cs" namespace="Ia.Cl.Model" className="NewIdentity" summary="ASP.NET Identity support class."/>
+<codeFile fileName="image.cs" namespace="Ia.Cl.Model" className="Image" summary="Image processing support class."/>
+<codeFile fileName="imap.cs" namespace="Ia.Cl.Model" className="Imap" summary="IMAP support class."/>
+<codeFile fileName="language.cs" namespace="Ia.Cl.Model" className="Language" summary="Language related support class including langauge list and codes."/>
+<codeFile fileName="individual.cs" namespace="Ia.Cl.Model.Life" className="Individual" summary="Individual object."/>
+<codeFile fileName="life.cs" namespace="Ia.Cl.Model.Life" className="Main" summary="General base class for life entities. Make it link through delegates to create and update database objects."/>
+<codeFile fileName="log.cs" namespace="Ia.Cl.Model" className="Log" summary="Log file support class."/>
+<codeFile fileName="mouse.cs" namespace="Ia.Cl.Model" className="Mouse" summary="Windows mouse movements and properties control support class."/>
+<codeFile fileName="newspaper.cs" namespace="Ia.Cl.Model" className="Newspaper" summary="Newspaper and publication display format support class."/>
+<codeFile fileName="ocr.cs" namespace="Ia.Cl.Model" className="Ocr" summary="Handles OCR operations."/>
+<codeFile fileName="prayer-time.cs" namespace="Ia.Cl.Model" className="PrayerTime" summary="Prayer times support class."/>
+<codeFile fileName="punycode.cs" namespace="Ia.Cl.Model" className="Punycode" summary="Punycode support class."/>
+<codeFile fileName="result.cs" namespace="Ia.Cl.Model" className="Result" summary="Result support class."/>
+<codeFile fileName="seo.cs" namespace="Ia.Cl.Model" className="Seo" summary="Search Engine Optimization (SEO) support class."/>
+<codeFile fileName="sitemap.cs" namespace="" className="DynamicSiteMapProvider" summary="Sitemap support class."/>
+<codeFile fileName="sms.cs" namespace="Ia.Cl.Model" className="Sms" summary="SMS API service support class. Handles sending and recieving SMS messages through the ClickATell.com SMS API Service gateway. Requires subscription."/>
+<codeFile fileName="smtp.cs" namespace="Ia.Cl.Model" className="Smtp" summary="SMTP send mail server suppot class."/>
+<codeFile fileName="sound.cs" namespace="Ia.Cl.Model" className="Sound" summary="Sound support class."/>
+<codeFile fileName="telnet.cs" namespace="Ia.Cl.Model" className="Telnet" summary="Telnet communication support class."/>
+<codeFile fileName="trace.cs" namespace="Ia.Cl.Model" className="Trace" summary="Trace function to try to identifiy a user using IP addresses, cookies, and session states."/>
+<codeFile fileName="twitter.cs" namespace="Ia.Cl.Model" className="Twitter" summary="Twitter API support class."/>
+<codeFile fileName="upload.cs" namespace="Ia.Cl.Model" className="Upload" summary="Handle uploading functions."/>
+<codeFile fileName="utf8.cs" namespace="Ia.Cl.Model" className="Utf8" summary="Handle UTF8 issues."/>
+<codeFile fileName="winapi.cs" namespace="Ia.Cl.Model" className="Winapi" summary="WINAPI click events support class."/>
+<codeFile fileName="word.cs" namespace="Ia.Cl.Model" className="Word" summary="Word object."/>
+<codeFile fileName="xml.cs" namespace="Ia.Cl.Model" className="Xml" summary="XML support class."/>
+<codeFile fileName="zip.cs" namespace="Ia.Model" className="Zip" summary="ZIP support class. Compress and de-compress a string using ZIP technology (requires ICSharpCode.SharpZipLib.dll) This code was updated but not tested."/>
+<codeFile fileName="business.cs" namespace="Ia.Islamic.Koran.Belief.Model" className="Business" summary="Koran Reference Network support functions: Business model"/>
+<codeFile fileName="default.cs" namespace="Ia.Islamic.Cl.Model.Business" className="Default" summary="Koran Reference Network Class Library support functions: Business model"/>
+<codeFile fileName="default.cs" namespace="Ia.Islamic.Cl.Model.Data" className="Default" summary="Koran Reference Network Class Library support functions: Data model"/>
+<codeFile fileName="data-context.cs" namespace="Ia.Islamic.Cl.Model.Context" className="Koran" summary="Koran Reference Network Data Context"/>
+<codeFile fileName="ef.cs" namespace="Ia.Cl.Model" className="Ef" summary="Entity Framework support function"/>
+<codeFile fileName="chapter.cs" namespace="Ia.Islamic.Cl.Model" className="Chapter" summary="Koran Reference Network Class Library support functions: Entity model"/>
+<codeFile fileName="koran.cs" namespace="Ia.Islamic.Cl.Model" className="Koran" summary="Koran Reference Network Class Library support functions: Entity model"/>
+<codeFile fileName="verse.cs" namespace="Ia.Islamic.Cl.Model" className="Verse" summary="Koran Reference Network Class Library support functions: Entity model"/>
+<codeFile fileName="verse-topic.cs" namespace="Ia.Islamic.Cl.Model" className="VerseTopic" summary="Koran Reference Network Class Library support functions: Entity model"/>
+<codeFile fileName="word.cs" namespace="Ia.Islamic.Cl.Model" className="Word" summary="Koran Reference Network Class Library support functions: Entity model"/>
+<codeFile fileName="translation.cs" namespace="Ia.Islamic.Cl.Model" className="Translation" summary="Koran Reference Network Class Library support functions: Data model"/>
+<codeFile fileName="verse-topic.cs" namespace="Ia.Islamic.Cl.Model.Ui" className="VerseTopicUi" summary="Koran Reference Network Class Library support functions: UI model"/>
+<codeFile fileName="default.cs" namespace="Ia.Islamic.Koran.Wa.Model.Ui" className="Default" summary="Koran Reference Network Class Library support functions: UI model"/>
+<codeFile fileName="default.cs" namespace="Ia.Islamic.Koran.Wfa.Model.Business" className="Default" summary="Koran Reference Network Windows Form support functions: Business model"/>
+<codeFile fileName="preparation.cs" namespace="Ia.Islamic.Koran.Wfa.Model.Business" className="Preparation" summary="Koran Reference Network Windows Form support functions: Business model"/>
+<codeFile fileName="default.cs" namespace="Ia.Islamic.Koran.Wfa.Model.Data" className="Default" summary="Koran Reference Network Windows Form support functions: Data model"/>
+<codeFile fileName="business.cs" namespace="Ia.Islamic.Usool.Model" className="Business" summary="Islamic Usool Support Functions: Business model"/>
+<codeFile fileName="business.cs" namespace="Ia.Islamic.Tawheed.Model" className="Business" summary="Islamic Tawheed Support Functions: Business model"/>
+<codeFile fileName="data.cs" namespace="Ia.Islamic.Tawheed.Model" className="Data" summary="Islamic Tawheed Support Functions: Data model"/>
+<codeFile fileName="ui.cs" namespace="Ia.Islamic.Tawheed.Model" className="UI" summary="Islamic Tawheed Support Functions: UI model"/>
+<codeFile fileName="germanic.cs" namespace="Ia.Learning.Cl.Model.Business" className="Germanic" summary="Germanic:Test business support functions"/>
+<codeFile fileName="math.cs" namespace="Ia.Learning.Cl.Model.Business" className="Math" summary="Math:Test business support functions"/>
+<codeFile fileName="test.cs" namespace="Ia.Learning.Cl.Model.Business" className="Test" summary="Test business support functions"/>
+<codeFile fileName="germanic.cs" namespace="Ia.Learning.Cl.Model.Data" className="Germanic" summary="Germanic data support functions"/>
+<codeFile fileName="math.cs" namespace="Ia.Learning.Cl.Model.Data" className="Math" summary="Math data support functions"/>
+<codeFile fileName="test.cs" namespace="Ia.Learning.Cl.Model.Data" className="Test" summary="Test data support functions"/>
+<codeFile fileName="default.cs" namespace="Ia.Learning.Cl.Model" className="Default" summary="Default data support functions"/>
+<codeFile fileName="score.cs" namespace="Ia.Learning.Cl.Model" className="Score" summary="Score entity functions"/>
+<codeFile fileName="business.cs" namespace="Ia.Learning.Kafiya.Model" className="Business" summary="Default business support class."/>
+<codeFile fileName="data.cs" namespace="Ia.Learning.Kafiya.Model" className="Data" summary="Default data support class."/>
+<codeFile fileName="data.cs" namespace="Ia.Learning.Manhaj.Model.Data" className="Default" summary="Default data support class."/>
+<codeFile fileName="entities.cs" namespace="Ia.Learning.Manhaj.Model" className="Level" summary="Default entity support class."/>
+<codeFile fileName="ui.cs" namespace="Ia.Learning.Manhaj.Model.UI" className="Default" summary="Default UI support class."/>
+<codeFile fileName="business.cs" namespace="Ia.Learning.Kanji.Model.Business" className="Default" summary="Default business support class."/>
+<codeFile fileName="data.cs" namespace="Ia.Learning.Kanji.Model.Data" className="Default" summary="Default data support class."/>
+<codeFile fileName="kanji.cs" namespace="Ia.Learning.Kanji.Model" className="Kanji" summary="Kanji support class."/>
+<codeFile fileName="ui.cs" namespace="Ia.Learning.Kanji.Model.Ui" className="Default" summary="Default UI support class."/>
+<codeFile fileName="access.cs" namespace="Ia.Ngn.Cl.Model.Business" className="Access" summary="Access support class for Next Generation Network (NGN) business model."/>
+<codeFile fileName="administration.cs" namespace="Ia.Ngn.Cl.Model.Business" className="Administration" summary="Administration support class of Next Generation Network'a (NGN's) business model."/>
+<codeFile fileName="authority.cs" namespace="Ia.Ngn.Cl.Model.Business" className="Authority" summary="Authority support class of Next Generation Network'a (NGN's) business model."/>
+<codeFile fileName="default.cs" namespace="Ia.Ngn.Cl.Model.Business" className="Default" summary="Default general support class of Next Generation Network'a (NGN's) business model."/>
+<codeFile fileName="ims.cs" namespace="Ia.Ngn.Cl.Model.Business.Huawei" className="Ims" summary="Optical Fiber Network Management Intranet Portal (OFN) support class for Huawei's Next Generation Network (NGN) business model"/>
+<codeFile fileName="mail.cs" namespace="Ia.Ngn.Cl.Model.Business" className="Mail" summary="Mail process support class of Next Generation Network'a (NGN's) business model."/>
+<codeFile fileName="find.cs" namespace="Ia.Ngn.Cl.Model.Business.Maintenance" className="Find" summary="Find subscriber and network information support class for the Next Generation Network business model"/>
+<codeFile fileName="agcf-endpoint.cs" namespace="Ia.Ngn.Cl.Model.Business.Nokia" className="AgcfEndpoint" summary="AGCF Endpoint support class for Nokia's Next Generation Network (NGN) business model."/>
+<codeFile fileName="agcf-gatewayrecord.cs" namespace="Ia.Ngn.Cl.Model.Business.Nokia" className="AgcfGatewayRecord" summary="AGCF Gateway Records support class for Nokia's Next Generation Network (NGN) business model."/>
+<codeFile fileName="agcf-gatewaytable.cs" namespace="Ia.Ngn.Cl.Model.Business.Nokia" className="AgcfGatewayTable" summary="AGCF Gateway Table support class for Nokia's Next Generation Network (NGN) business model."/>
+<codeFile fileName="ams.cs" namespace="Ia.Ngn.Cl.Model.Business.Nokia" className="Ams" summary="Access Management System (AMS) support class for Nokia's Next Generation Network (NGN) business model."/>
+<codeFile fileName="ims.cs" namespace="Ia.Ngn.Cl.Model.Business.Nokia" className="Ims" summary="Optical Fiber Network Management Intranet Portal (OFN) support class for Nokia's Next Generation Network (NGN) business model."/>
+<codeFile fileName="subparty.cs" namespace="Ia.Ngn.Cl.Model.Business.Nokia" className="SubParty" summary="SubParty support class for Nokia's Next Generation Network (NGN) business model."/>
+<codeFile fileName="subscriber.cs" namespace="Ia.Ngn.Cl.Model.Business.Nokia" className="Subscriber" summary="Subscriber support class for Nokia's Next Generation Network (NGN) business model."/>
+<codeFile fileName="ont.cs" namespace="Ia.Ngn.Cl.Model.Business" className="Ont" summary="ONT support class of Next Generation Network'a (NGN's) business model."/>
+<codeFile fileName="ont-ontpots.cs" namespace="Ia.Ngn.Cl.Model.Business" className="OntOntPots" summary="ONT-ONTPOTS support class of Next Generation Network'a (NGN's) business model."/>
+<codeFile fileName="ont-service-hsi.cs" namespace="Ia.Ngn.Cl.Model.Business" className="OntServiceHsi" summary="ONT-SERVICEHSI support class of Next Generation Network'a (NGN's) business model."/>
+<codeFile fileName="ont-service-voip.cs" namespace="Ia.Ngn.Cl.Model.Business" className="OntServiceVoip" summary="ONT-SERVICEVOIP support class of Next Generation Network'a (NGN's) business model."/>
+<codeFile fileName="provision.cs" namespace="Ia.Ngn.Cl.Model.Business" className="Provision" summary="Provision support class of Next Generation Network'a (NGN's) business model."/>
+<codeFile fileName="report.cs" namespace="Ia.Ngn.Cl.Model.Business" className="Report" summary="Report support class of Next Generation Network'a (NGN's) business model."/>
+<codeFile fileName="service.cs" namespace="Ia.Ngn.Cl.Model.Business" className="Service" summary="Service support class of Next Generation Network'a (NGN's) business model."/>
+<codeFile fileName="service-address.cs" namespace="Ia.Ngn.Cl.Model.Business" className="ServiceAddress" summary="ServiceAddress Framework class for Next Generation Network (NGN) business model."/>
+<codeFile fileName="service-request.cs" namespace="Ia.Ngn.Cl.Model.Business" className="ServiceRequest" summary="Service Request support class of Next Generation Network'a (NGN's) business model."/>
+<codeFile fileName="service-request-service.cs" namespace="Ia.Ngn.Cl.Model.Business" className="ServiceRequestService" summary="Service Request Service support class of Next Generation Network'a (NGN's) business model."/>
+<codeFile fileName="service-request-type.cs" namespace="Ia.Ngn.Cl.Model.Business" className="ServiceRequestType" summary="Service Request Type support class of Next Generation Network'a (NGN's) business model."/>
+<codeFile fileName="transaction.cs" namespace="Ia.Ngn.Cl.Model.Business" className="Transction" summary="Transction support class of Next Generation Network'a (NGN's) business model."/>
+<codeFile fileName="ims.cs" namespace="Ia.Ngn.Cl.Model.Client.Nokia" className="Ims" summary="Optical Fiber Network Management Intranet Portal (OFN) client support class for Nokia's Next Generation Network (NGN) client model."/>
+<codeFile fileName="access.cs" namespace="Ia.Ngn.Cl.Model.Data" className="Access" summary="Access support class for Next Generation Network (NGN) data model."/>
+<codeFile fileName="administration.cs" namespace="Ia.Ngn.Cl.Model.Data" className="Administration" summary="Administration support class for Next Generation Network (NGN) data model."/>
+<codeFile fileName="business-process-framwork.cs" namespace="Ia.Ngn.Cl.Model.BusinessProcessFramwork" className="CrmSupportAndReadiness" summary="Business Process Framwork support class for Next Generation Network (NGN) data model."/>
+<codeFile fileName="default.cs" namespace="Ia.Ngn.Cl.Model.Data" className="Default" summary="Default support class for Next Generation Network (NGN) data model."/>
+<codeFile fileName="event.cs" namespace="Ia.Ngn.Cl.Model.Data" className="Event" summary="AMS Event support class for Next Generation Network (NGN) data model."/>
+<codeFile fileName="hsi.cs" namespace="Ia.Ngn.Cl.Model.Data" className="Hsi" summary="High Speed Internet (HSI) support class for Next Generation Network (NGN) data model."/>
+<codeFile fileName="ims.cs" namespace="Ia.Ngn.Cl.Model.Data.Huawei" className="Ims" summary="Optical Fiber Network Management Intranet Portal (OFN) support class for Huawei's Next Generation Network (NGN) data model"/>
+<codeFile fileName="network-design-document.cs" namespace="Ia.Ngn.Cl.Model.Data" className="NetworkDesignDocument" summary="Network Design Document support class for Next Generation Network (NGN) data model."/>
+<codeFile fileName="agcf-endpoint.cs" namespace="Ia.Ngn.Cl.Model.Data.Nokia" className="AgcfEndpoint" summary="AGCF Endpoint support class for Nokia data model."/>
+<codeFile fileName="agcf-gatewayrecord.cs" namespace="Ia.Ngn.Cl.Model.Data.Nokia" className="AgcfGatewayRecord" summary="AGCF Gateway Records support class for Nokia data model."/>
+<codeFile fileName="ams.cs" namespace="Ia.Ngn.Cl.Model.Data.Nokia" className="Ams" summary="Access Management System (AMS) support class for Nokia data model."/>
+<codeFile fileName="default.cs" namespace="Ia.Ngn.Cl.Model.Data.Nokia" className="Default" summary="Defaul general support class for Nokia's Next Generation Network (NGN) data model."/>
+<codeFile fileName="ims.cs" namespace="Ia.Ngn.Cl.Model.Data.Nokia" className="Ims" summary="Optical Fiber Network Management Intranet Portal (OFN) support class for Nokia's Next Generation Network (NGN) data model."/>
+<codeFile fileName="ont.cs" namespace="Ia.Ngn.Cl.Model.Data" className="Ont" summary="ONT support class for Next Generation Network (NGN) data model."/>
+<codeFile fileName="ont-ontpots.cs" namespace="Ia.Ngn.Cl.Model.Data" className="OntOntPots" summary="ONT-ONTPOTS support class for Next Generation Network (NGN) data model."/>
+<codeFile fileName="ont-service-hsi.cs" namespace="Ia.Ngn.Cl.Model.Data" className="OntServiceHsi" summary="ONT-SERVICEHSI support class for Next Generation Network (NGN) data model."/>
+<codeFile fileName="ont-service-voip.cs" namespace="Ia.Ngn.Cl.Model.Data" className="OntServiceVoip" summary="ONT-SERVICEVOIP support class for Next Generation Network (NGN) data model."/>
+<codeFile fileName="pots.cs" namespace="Ia.Ngn.Cl.Model.Data" className="Pots" summary="POTS legacy support class for Next Generation Network (NGN) data model."/>
+<codeFile fileName="provision.cs" namespace="Ia.Ngn.Cl.Model.Data" className="Provision" summary="Provision support class for Next Generation Network (NGN) data model."/>
+<codeFile fileName="report.cs" namespace="Ia.Ngn.Cl.Model.Data" className="Report" summary="Report support class for Next Generation Network (NGN) data model."/>
+<codeFile fileName="service.cs" namespace="Ia.Ngn.Cl.Model.Data" className="Service" summary="Service support class for Next Generation Network (NGN) data model."/>
+<codeFile fileName="service2.cs" namespace="Ia.Ngn.Cl.Model.Data" className="Service2" summary="Service support class for Next Generation Network (NGN) data model."/>
+<codeFile fileName="service-request.cs" namespace="Ia.Ngn.Cl.Model.Data" className="ServiceRequest" summary="Service Request support class for Next Generation Network (NGN) data model."/>
+<codeFile fileName="service-request-ont.cs" namespace="Ia.Ngn.Cl.Model.Data" className="ServiceRequestOnt" summary="Service Request Ont support class for Next Generation Network (NGN) data model."/>
+<codeFile fileName="service-request-service.cs" namespace="Ia.Ngn.Cl.Model.Data" className="ServiceRequestService" summary="Service Request Service support class for Next Generation Network (NGN) data model."/>
+<codeFile fileName="service-request-type.cs" namespace="Ia.Ngn.Cl.Model.Data" className="ServiceRequestType" summary="Service Request Type support class for Next Generation Network (NGN) data model."/>
+<codeFile fileName="staff.cs" namespace="Ia.Ngn.Cl.Model.Data" className="Staff" summary="Staff support class for Next Generation Network (NGN) data model."/>
+<codeFile fileName="transaction.cs" namespace="Ia.Ngn.Cl.Model.Data" className="Transaction" summary="Transaction support class for Next Generation Network (NGN) data model."/>
+<codeFile fileName="access.cs" namespace="Ia.Ngn.Cl.Model" className="Access" summary="Access Entity Framework class for Next Generation Network (NGN) entity model."/>
+<codeFile fileName="contact.cs" namespace="Ia.Ngn.Cl.Model" className="Contact" summary="Contact Entity Framework class for Next Generation Network (NGN) entity model."/>
+<codeFile fileName="event.cs" namespace="Ia.Ngn.Cl.Model" className="Event" summary="Event Entity Framework class for Next Generation Network (NGN) entity model."/>
+<codeFile fileName="billing-initial.cs" namespace="Ia.Ngn.Cl.Model.Huawei" className="InitialBilling" summary="Initial Billing Entity Framework class for Next Generation Network (NGN) entity model."/>
+<codeFile fileName="hu-sbr.cs" namespace="Ia.Ngn.Cl.Model.Huawei" className="HuSbr" summary="Huawei's Sbr Entity Framework class for Next Generation Network (NGN) entity model."/>
+<codeFile fileName="sbr.cs" namespace="Ia.Ngn.Cl.Model.Huawei" className="Sbr" summary="Sbr Entity Framework class for Next Generation Network (NGN) entity model."/>
+<codeFile fileName="inventory.cs" namespace="Ia.Ngn.Cl.Model" className="Inventory" summary="Inventory Entity Framework class for Next Generation Network (NGN) entity model."/>
+<codeFile fileName="logical-circuit.cs" namespace="Ia.Ngn.Cl.Model" className="LogicalCircuit" summary="Logical-Circuit Entity Framework class for Next Generation Network (NGN) entity model."/>
+<codeFile fileName="miscellaneous.cs" namespace="Ia.Ngn.Cl.Model" className="Miscellaneous" summary="Miscellaneous Entity Framework class for Next Generation Network (NGN) entity model."/>
+<codeFile fileName="agcf-endpoint.cs" namespace="Ia.Ngn.Cl.Model.Nokia" className="AgcfEndpoint" summary="AGCF Endpoint Entity Framework class for Next Generation Network (NGN) entity model."/>
+<codeFile fileName="agcf-gatewayrecord.cs" namespace="Ia.Ngn.Cl.Model.Nokia" className="AgcfGatewayRecord" summary="AGCF Gateway Record Entity Framework class for Next Generation Network (NGN) entity model."/>
+<codeFile fileName="al-initial-installation.cs" namespace="Ia.Ngn.Cl.Model.AlcatelLucent" className="AlInitialInstallation" summary="Alcatel-Lucent Initial Installation Entity Framework class for Next Generation Network (NGN) entity model."/>
+<codeFile fileName="subparty.cs" namespace="Ia.Ngn.Cl.Model.Nokia" className="SubParty" summary="SubParty Entity Framework class for Next Generation Network (NGN) entity model."/>
+<codeFile fileName="subscriber.cs" namespace="Ia.Ngn.Cl.Model.Nokia" className="Subscriber" summary="Subscriber Entity Framework class for Next Generation Network (NGN) entity model."/>
+<codeFile fileName="ont.cs" namespace="Ia.Ngn.Cl.Model" className="Ont" summary="ONT Entity Framework class for Next Generation Network (NGN) entity model."/>
+<codeFile fileName="ont-ontpots.cs" namespace="Ia.Ngn.Cl.Model" className="OntOntPots" summary="ONT-ONTPOTS Entity Framework class for Next Generation Network (NGN) entity model."/>
+<codeFile fileName="ont-service-hsi.cs" namespace="Ia.Ngn.Cl.Model" className="OntServiceHsi" summary="ONT-SERVICEHSI Entity Framework class for Next Generation Network (NGN) entity model."/>
+<codeFile fileName="ont-service-voip.cs" namespace="Ia.Ngn.Cl.Model" className="OntServiceVoip" summary="ONT-SERVICEVOIP Entity Framework class for Next Generation Network (NGN) entity model."/>
+<codeFile fileName="report.cs" namespace="Ia.Ngn.Cl.Model" className="Report" summary="Report Entity Framework class for Next Generation Network (NGN) entity model."/>
+<codeFile fileName="report-history.cs" namespace="Ia.Ngn.Cl.Model" className="ReportHistory" summary="Report History Entity Framework class for Next Generation Network (NGN) entity model."/>
+<codeFile fileName="service old.cs" namespace="Ia.Ngn.Cl.Model" className="Service" summary="Service Entity Framework class for Next Generation Network (NGN) entity model."/>
+<codeFile fileName="service2.cs" namespace="Ia.Ngn.Cl.Model" className="Service2" summary="Service Entity Framework class for Next Generation Network (NGN) entity model."/>
+<codeFile fileName="service-request.cs" namespace="Ia.Ngn.Cl.Model" className="ServiceRequest" summary="Service Request Entity Framework class for Next Generation Network (NGN) entity model."/>
+<codeFile fileName="service-request-ont.cs" namespace="Ia.Ngn.Cl.Model" className="ServiceRequestOnt" summary="Service Request Ont Entity Framework class for Next Generation Network (NGN) entity model."/>
+<codeFile fileName="service-request-service.cs" namespace="Ia.Ngn.Cl.Model" className="ServiceRequestService" summary="Service Request Service Entity Framework class for Next Generation Network (NGN) entity model."/>
+<codeFile fileName="service-request-type.cs" namespace="Ia.Ngn.Cl.Model" className="ServiceRequestType" summary="Service Request Type Entity Framework class for Next Generation Network (NGN) entity model."/>
+<codeFile fileName="si-initial-installation.cs" namespace="Ia.Ngn.Cl.Model.Siemens" className="SiInitialInstallation" summary="Siemens Initial Installation Entity Framework class for Next Generation Network (NGN) entity model."/>
+<codeFile fileName="staff.cs" namespace="Ia.Ngn.Cl.Model" className="Staff" summary="Staff Entity Framework class for Next Generation Network (NGN) entity model."/>
+<codeFile fileName="transaction.cs" namespace="Ia.Ngn.Cl.Model" className="Transaction" summary="Transaction Entity Framework class for Next Generation Network (NGN) entity model."/>
+<codeFile fileName="access.cs" namespace="Ia.Ngn.Cl.Model.Ui" className="Access" summary="Access support class for Next Generation Network (NGN) ui model."/>
+<codeFile fileName="administration.cs" namespace="Ia.Ngn.Cl.Model.Ui" className="Administration" summary="Administration support class for Next Generation Network (NGN) ui model."/>
+<codeFile fileName="al-initial-installation.cs" namespace="Ia.Ngn.Cl.Model.Ui.Nokia" className="AlInitialInstallation" summary="Nokia Initial Installation Entity Framework class for Next Generation Network (NGN) UI model."/>
+<codeFile fileName="default.cs" namespace="Ia.Ngn.Cl.Model.Ui" className="Default" summary="Default support class for Next Generation Network (NGN) ui model."/>
+<codeFile fileName="inventory.cs" namespace="Ia.Ngn.Cl.Model.Ui" className="InventoryForDataGridView" summary="Inventory For DataGridView support class for Next Generation Network (NGN) ui model."/>
+<codeFile fileName="mail.cs" namespace="Ia.Ngn.Cl.Model.Ui" className="Mail" summary="Mail process support class of Next Generation Network'a (NGN's) UI model."/>
+<codeFile fileName="find.cs" namespace="Ia.Ngn.Cl.Model.Ui.Maintenance" className="Find" summary="Find subscriber and network information support class for the Next Generation Network ui model"/>
+<codeFile fileName="network-design-document.cs" namespace="Ia.Ngn.Cl.Model.Ui" className="NetworkDesignDocument" summary="Network Design Document support class for Next Generation Network (NGN) UI model."/>
+<codeFile fileName="performance.cs" namespace="Ia.Ngn.Cl.Model.Ui" className="Performance" summary="Performance support class for Next Generation Network (NGN) ui model."/>
+<codeFile fileName="report.cs" namespace="Ia.Ngn.Cl.Model.Ui" className="Report" summary="Report support class for Next Generation Network (NGN) ui model."/>
+<codeFile fileName="report-access-service-request.cs" namespace="Ia.Ngn.Cl.Model.Ui" className="ReportAccessServiceRequest" summary="Report Access Service Request support class for Next Generation Network (NGN) ui model."/>
+<codeFile fileName="service-customer-address-ontid-statisticalontid.cs" namespace="Ia.Ngn.Cl.Model.Ui" className="ServiceCustomerAddressAccessOntNameStatisticalOntName" summary="ServiceRequest ServiceRequestService Access Statistic support class for Next Generation Network (NGN) ui model."/>
+<codeFile fileName="administration.cs" namespace="Ia.Ngn.Ofn.Wa.Model.Business" className="Administration" summary="Administration support class for Next Generation Network (NGN) web application (Intranet) model."/>
+<codeFile fileName="contact.cs" namespace="Ia.Ngn.Ofn.Wa.Model.Business" className="Contact" summary="Contact support class for Next Generation Network (NGN) web application (Intranet) model."/>
+<codeFile fileName="script.cs" namespace="Ia.Ngn.Ofn.Wa.Model.Business.Maintenance" className="Script" summary="Script support class for Next Generation Network (NGN) web application (Intranet) model."/>
+<codeFile fileName="administration.cs" namespace="Ia.Ngn.Ofn.Wa.Model.Data" className="Administration" summary="Administration support class for Next Generation Network (NGN) web application (Intranet) model."/>
+<codeFile fileName="default.cs" namespace="Ia.Ngn.Ims.Wa.Model.Data" className="Default" summary="Default support class for Next Generation Network (NGN) web application (Intranet) model."/>
+<codeFile fileName="script.cs" namespace="Ia.Ngn.Ofn.Wa.Model.Data" className="Script" summary="Script support class for Next Generation Network (NGN) web application (Intranet) model."/>
+<codeFile fileName="service-request.cs" namespace="Ia.Ngn.Ofn.Wa.Model.Data" className="ServiceRequest" summary="Service Request support class for Next Generation Network (NGN) web application (Intranet) model."/>
+<codeFile fileName="default.cs" namespace="Ia.Ngn.Ofn.Wa.Model.Ui" className="Default" summary="Default support class for Next Generation Network (NGN) web application (Intranet) model."/>
+</codeLibrary>

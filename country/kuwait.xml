@@ -1,0 +1,200 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+-->
+
+<kuwait name="كويت" englishName="Kuwait">
+  <province id="1" name="Capital" arabicName="العاصمة" symbol="">
+    <city id="1" name="Capital" arabicName="العاصمة" symbol="">
+      <area id="1" name="Dasman" arabicName="دسمان"/>
+      <area id="2" name="Sharq" arabicName="شـرق"/>
+      <area id="3" name="Qiblah" arabicName="القبلة"/>
+      <area id="4" name="Murqab" arabicName="المرقاب"/>
+      <area id="5" name="Bneid Al Gar" arabicName="بنيد القار" latitude="29.3730" longitude="48.0047" zoom="14"/>
+      <area id="6" name="Dasma" arabicName="الدسمة"/>
+      <area id="7" name="Mansouriya" arabicName="المنصورية"/>
+      <area id="8" name="Abdullah Al Salem" arabicName="عبدالله السالم"/>
+      <area id="9" name="Shamiya" arabicName="الشامية"/>
+      <area id="10" name="Shuwaikh Residential" arabicName="الشويخ السكنية"/>
+      <area id="11" name="Shuwaikh Medical" arabicName="الشويخ الصحية"/>
+      <area id="12" name="Shuwaikh Industrial" arabicName="الشويخ الصناعية"/>
+      <area id="13" name="Shuwaikh Educational" arabicName="الشويخ التعليمية"/>
+      <area id="14" name="Shuwaikh Administrative" arabicName="الشويخ الإدارية"/>
+      <area id="15" name="Shuwaikh Northern" arabicName="الشويخ الشمالي"/>
+      <area id="16" name="Shuwaikh Seaport" arabicName="ميناء الشويخ"/>
+      <area id="17" name="Daiya" arabicName="الدعية"/>
+      <area id="18" name="Qadisiya" arabicName="القادسية"/>
+      <area id="19" name="Nuzha" arabicName="النزهة"/>
+      <area id="20" name="Faiha" arabicName="الفيحاء"/>
+      <area id="21" name="Kaifan" arabicName="كيفان"/>
+      <area id="22" name="Rawda" arabicName="الروضة"/>
+      <area id="23" name="Idaliya" arabicName="العديلية"/>
+      <area id="24" name="Khaldiya" arabicName="الخالدية"/>
+      <area id="25" name="Surra" arabicName="السرة" latitude="29.3138" longitude="48.0086" zoom="14"/>
+      <area id="26" name="Qurtoba" arabicName="قرطبة"/>
+      <area id="27" name="Yarmouk" arabicName="اليرموك"/>
+      <area id="28" name="Rai Industrial" arabicName="الري الصناعية"/>
+      <area id="29" name="Sulaibikhat" arabicName="الصليبيخات"/>
+      <area id="30" name="Garnada" arabicName="غرناطة"/>
+      <area id="31" name="Mubarakiya" arabicName="المباركية"/>
+      <area id="32" name="Failaka" arabicName="فيلكا"/>
+      <area id="33" name="Oha" arabicName="عوهه"/>
+      <area id="34" name="Kubbar" arabicName="كبر"/>
+      <area id="35" name="Miskan" arabicName="مسكان"/>
+      <area id="36" name="Um Ul Maradim" arabicName="أم المرادم"/>
+      <area id="37" name="Karooh" arabicName="قاروه"/>
+      <area id="38" name="Doha" arabicName="الدوحة"/>
+      <area id="39" name="Entertainment City" arabicName="المدينة الترفيهية"/>
+      <area id="40" name="Doha Seaport" arabicName="ميناء الدوحة"/>
+    </city>
+  </province>
+
+  <province id="2" name="Ahmadi" arabicName="الأحمدي" symbol="">
+    <city id="2" name="Ahmadi" arabicName="الأحمدي" symbol="">
+      <area id="1" name="Ahmadi East" arabicName="شرق الأحمدي"/>
+      <area id="2" name="Fintas" arabicName="الفنطاس"/>
+      <area id="3" name="Um Ul Heeman" arabicName="أم الهيمان"/>
+      <area id="4" name="Hadiya" arabicName="هدية"/>
+      <area id="5" name="Hadiya South" arabicName="جنوب هدية"/>
+      <area id="6" name="Abu Holaifa" arabicName="أبو حليفة"/>
+      <area id="7" name="Sabahiya" arabicName="الصباحية"/>
+      <area id="8" name="Sabahiya South" arabicName="جنوب الصباحية"/>
+      <area id="9" name="Jaber Al Ali" arabicName="جابر العلي"/>
+      <area id="10" name="Dahar" arabicName="الظهر"/>
+      <area id="11" name="Mahboula" arabicName="المهبولة" latitude="29.1477" longitude="48.1225" zoom="13"/>
+      <area id="12" name="Rikka" arabicName="الرقة"/>
+      <area id="13" name="Rikka South" arabicName="جنوب الرقة"/>
+      <area id="14" name="Wafra" arabicName="الوفرة"/>
+      <area id="15" name="Mangaf" arabicName="المنقف"/>
+      <area id="16" name="Kheeran" arabicName="الخيران"/>
+      <area id="17" name="Pearl" arabicName="لآلئ الخيران"/>
+      <area id="18" name="Ogalah" arabicName="العقيلة"/>
+      <area id="19" name="Bnaider" arabicName="بنيدر"/>
+      <area id="20" name="Mina Abdullah" arabicName="ميناء عبدالله"/>
+      <area id="21" name="Nuwaiseeb" arabicName="نويصيب"/>
+      <area id="22" name="Fahaheel" arabicName="الفحاحيل"/>
+      <area id="23" name="Shuaiba Industrial" arabicName="الشعيبة الصناعية"/>
+      <area id="24" name="Shuaiba Seaport" arabicName="ميناء الشعيبة"/>
+      <area id="25" name="Magua" arabicName="المقوع"/>
+      <area id="26" name="Ahmadi Seaport" arabicName="ميناء الأحمدي"/>
+      <area id="27" name="Zor" arabicName="الزور"/>
+      <area id="28" name="Julaiaa" arabicName="جليعة"/>
+      <area id="29" name="Dhubaiya" arabicName="الضباعية"/>
+      <area id="30" name="Abu Al Hasania" arabicName="أبو الحصانية"/>
+      <area id="31" name="Ali Al Salem" arabicName="علي السالم"/>
+      <area id="32" name="Fahad Al Ahmad" arabicName="فهد الأحمد"/>
+    </city>
+  </province>
+
+  <province id="3" name="Farwaniya" arabicName="الفروانية" symbol="">
+    <city id="3" name="Farwaniya" arabicName="الفروانية" symbol="">
+      <area id="1" name="Riggae" arabicName="الرقعي"/>
+      <area id="2" name="Khaitan" arabicName="خيطان"/>
+      <area id="3" name="Khaitan South" arabicName="خيطان الجنوبي"/>
+      <area id="4" name="Eshbiliya" arabicName="إشبيلية"/>
+      <area id="5" name="Omariya" arabicName="العمرية"/>
+      <area id="6" name="Farwaniya" arabicName="الفروانية"/>
+      <area id="7" name="Farwaniya South" arabicName="جنوب الفروانية"/>
+      <area id="8" name="Rabia" arabicName="الرابية"/>
+      <area id="9" name="South Rabia" arabicName="جنوب الرابية"/>
+      <area id="10" name="Ardiya" arabicName="العارضية"/>
+      <area id="11" name="Ardiya Storage" arabicName="العارضية تخزين"/>
+      <area id="12" name="Ardiya Administrative" arabicName="العارضية الإدارية"/>
+      <area id="13" name="Firdous" arabicName="الفردوس"/>
+      <area id="14" name="Andalus" arabicName="الأندلس"/>
+      <area id="15" name="Dhajeej" arabicName="الضجيج"/>
+      <area id="16" name="Jileeb Al Shuyoukh" arabicName="جليب الشيوخ"/>
+      <area id="17" name="Abdullah Al Mubarak" arabicName="عبدالله المبارك"/>
+      <area id="18" name="Sabah Al Naser" arabicName="صباح الناصر"/>
+      <area id="19" name="Rai Industrial" arabicName="الري الصناعية"/>
+      <area id="20" name="Kuwait Airport" arabicName="مطار الكويت الدولي"/>
+      <area id="21" name="Shedadiya" arabicName="الشدادية"/>
+      <area id="22" name="Udailia" arabicName="العضيلية"/>
+      <area id="23" name="Rihab" arabicName="الرحاب"/>
+      <area id="24" name="Qayrawan" arabicName="القيروان"/>
+      <area id="25" name="Nahda" arabicName="النهضة"/>
+    </city>
+  </province>
+
+  <province id="4" name="Jahra" arabicName="الجهراء" symbol="">
+    <city id="4" name="Jahra" arabicName="الجهراء" symbol="">
+      <area id="1" name="Sulaibiya" arabicName="الصليبية"/>
+      <area id="2" name="Sulaibiya Farms" arabicName="مزارع الصليبية"/>
+      <area id="3" name="Sulaibiya Industrial" arabicName="الصليبية الصناعية"/>
+      <area id="4" name="Taima" arabicName="تيماء"/>
+      <area id="5" name="Oyoon" arabicName="العيون"/>
+      <area id="6" name="Naseem" arabicName="النسيم"/>
+      <area id="7" name="Naeem" arabicName="النعيم"/>
+      <area id="8" name="Waha" arabicName="الواحة"/>
+      <area id="9" name="Kadhma" arabicName="كاظمة "/>
+      <area id="10" name="Kabd" arabicName="كبد"/>
+      <area id="11" name="Sabiya" arabicName="الصبية"/>
+      <area id="12" name="Dibdiba" arabicName="الدبدبة"/>
+      <area id="13" name="Boubian" arabicName="بوبيان"/>
+      <area id="14" name="Warba" arabicName="وربة"/>
+      <area id="15" name="Qaser" arabicName="القصر"/>
+      <area id="16" name="Shedadiya Industrial" arabicName="الشدادية الصناعية"/>
+      <area id="17" name="Jahra Old" arabicName="الجهراء القديمة"/>
+      <area id="18" name="Amgarah" arabicName="أمغرة"/>
+      <area id="19" name="Amgarah Industrial" arabicName="أمغرة الصناعية"/>
+      <area id="20" name="Sabriya" arabicName="الصابرية"/>
+      <area id="21" name="Liyah" arabicName="اللياح"/>
+      <area id="22" name="Shikaya" arabicName="الشقايا"/>
+      <area id="23" name="Salmi" arabicName="السالمي"/>
+      <area id="24" name="Ibrak" arabicName="الأبرق"/>
+      <area id="25" name="Managish" arabicName="المناقيش"/>
+      <area id="26" name="Radifa" arabicName="الرديفة"/>
+      <area id="27" name="Rawdhatain" arabicName="الروضتين"/>
+      <area id="28" name="Abdali" arabicName="العبدلي"/>
+      <area id="29" name="Abdali Farms" arabicName="مزارع العبدلي"/>
+      <area id="30" name="Um Ul-Aish" arabicName="أو العيش"/>
+      <area id="31" name="Esheesh" arabicName="العشيش"/>
+      <area id="32" name="Khuwaisat" arabicName="الخويسات"/>
+      <area id="33" name="Sukhbiriat" arabicName="الصخبيريات"/>
+      <area id="34" name="Hoshan" arabicName="هوشان"/>
+      <area id="35" name="Um Sedeera" arabicName="أم سدبرة"/>
+      <area id="36" name="Saad Al Abdullah" arabicName="سعد العبدالله"/>
+    </city>
+  </province>
+
+  <province id="5" name="Mubarak" arabicName="مبارك الكبير" symbol="">
+    <city id="5" name="Mubarak" arabicName="مبارك الكبير" symbol="">
+      <area id="1" name="Sabah Al Salem" arabicName="صباح السالم"/>
+      <area id="2" name="Mubarak Al Kabeer" arabicName="مبارك الكبير"/>
+      <area id="3" name="Masila" arabicName="المسيلة"/>
+      <area id="4" name="Sabhan" arabicName="صبحان"/>
+      <area id="5" name="Adan" arabicName="العدان"/>
+      <area id="6" name="Qusoor" arabicName="القصور"/>
+      <area id="7" name="Qurain" arabicName="القرين"/>
+      <area id="8" name="Qurain East" arabicName="شرق القرين"/>
+      <area id="9" name="Finatees West" arabicName="غرب الفنيطيس"/>
+      <area id="10" name="Abu Fatira" arabicName="أبو فطيرة"/>
+      <area id="11" name="Mangaf New" arabicName="المنقف الجديد"/>
+      <area id="12" name="Fintas Zeraeiah" arabicName="الفنطاس الزراعية"/>
+    </city>
+  </province>
+
+  <province id="6" name="Hawalli" arabicName="حولي" symbol="">
+    <city id="6" name="Hawalli" arabicName="حولي" symbol="">
+      <area id="1" name="Hawally" arabicName="حولي"/>
+      <area id="2" name="Bidie" arabicName="البدع"/>
+      <area id="3" name="Hawally East" arabicName="شرق حولي"/>
+      <area id="4" name="Shaab" arabicName="الشعب"/>
+      <area id="5" name="Shaab Seaside" arabicName="الشعب البحري"/>
+      <area id="6" name="West Mishref" arabicName="مبارك عبدالله الجابر"/>
+      <area id="7" name="Salmiya" arabicName="السالمية"/>
+      <area id="8" name="Jabria" arabicName="الجابرية"/>
+      <area id="9" name="Rumaithiya" arabicName="الرميثية"/>
+      <area id="10" name="Salwa" arabicName="سلوى" latitude="29.2920" longitude="48.0794" zoom="12"/>
+      <area id="11" name="Bayan" arabicName="بيان"/>
+      <area id="12" name="Salam" arabicName="السلام"/>
+      <area id="13" name="Huteen" arabicName="حطين"/>
+      <area id="14" name="Shuhada" arabicName="الشهداء"/>
+      <area id="15" name="Sudeeq" arabicName="الصديق"/>
+      <area id="16" name="Zahra" arabicName="الزهراء"/>
+      <area id="17" name="West Bayan" arabicName="غرب بيان"/>
+      <area id="18" name="Mishref" arabicName="مشرف"/>
+      <area id="19" name="Salmiya Sea" arabicName="رأس السالمية"/>
+    </city>
+  </province>
+</kuwait>

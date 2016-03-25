@@ -1,0 +1,23 @@
+﻿
+ - Source code modified from http://www.manoli.net/csharpformat/
+ - Add the cshart.css files to app_themes
+ - Sample:
+
+        private void DataBind()
+        {
+            string s, content;
+            Ia.Wa.Model.Data.CodeLibrary cl;
+
+            c = new Ia.Cl.Model.FormatCodeFile();
+
+            content = "<code/>";
+
+            c.Alternate = false;
+			c.EmbedStyleSheet = false;
+            c.LineNumbers = true;
+
+            s = c.FormatCode(content);
+
+            l.Text = s;
+        }
+

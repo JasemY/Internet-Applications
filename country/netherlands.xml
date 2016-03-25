@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+
+List of cities in the Netherlands by province
+
+http://en.wikipedia.org/wiki/List_of_cities_in_the_Netherlands_by_province
+
+
+Drenthe[edit]
+Assen
+Coevorden
+Emmen
+Hoogeveen
+Meppel
+
+Flevoland[edit]
+Almere
+Lelystad
+Emmeloord
+
+Friesland[edit]
+Bolsward
+Dokkum
+Drachten
+Franeker
+Harlingen
+Heerenveen
+Hindeloopen
+IJlst
+Leeuwarden
+Sloten
+Sneek
+Stavoren
+Workum
+
+Gelderland[edit]
+Apeldoorn
+Arnhem
+Bredevoort
+Buren
+Culemborg
+Deil
+Dieren
+Doetinchem
+Ede
+Enspijk
+Gendt
+Groenlo
+Harderwijk
+Hattem
+Huissen
+Nijkerk
+Nijmegen
+Tiel
+Wageningen
+Wijchen
+Winterswijk
+Zaltbommel
+Zutphen
+
+Groningen[edit]
+Appingedam
+Delfzijl
+Groningen
+Hoogezand-Sappemeer
+Stadskanaal
+Winschoten
+Veendam
+
+Limburg[edit]
+Geleen
+Gennep
+Heerlen
+Kerkrade
+Kessel
+Landgraaf
+Maastricht
+Montfort
+Nieuwstadt
+Roermond
+Sittard
+Schin op Geul
+Stein
+Thorn
+Valkenburg aan de Geul
+Venlo
+Weert
+
+North Brabant[edit]
+Bergen op Zoom
+Breda
+'s-Hertogenbosch
+Eindhoven
+Geertruidenberg
+Grave
+Helmond
+Heusden
+Klundert
+Oosterhout
+Oss
+Ravenstein
+Roosendaal
+Sint-Oedenrode
+Tilburg
+Valkenswaard
+Veldhoven
+Waalwijk
+Willemstad
+Woudrichem
+
+North Holland[edit]
+Alkmaar
+Amstelveen
+Amsterdam
+Den Helder
+Edam, Volendam
+Enkhuizen
+Haarlem
+Heerhugowaard
+Hilversum
+Hoofddorp
+Hoorn
+Laren
+Purmerend
+Medemblik
+Monnickendam
+Muiden
+Naarden
+Schagen
+Velsen
+Weesp
+Zaanstad
+
+Overijssel[edit]
+Almelo
+Blokzijl
+Deventer
+Enschede
+Genemuiden
+Hasselt
+Hengelo
+Kampen
+Oldenzaal
+Steenwijk
+Vollenhove
+Zwolle
+
+South Holland[edit]
+Alphen aan den Rijn
+Delft
+Dordrecht
+Gorinchem
+Gouda
+Leiden
+Rotterdam
+Spijkenisse
+The Hague (Dutch: 's-Gravenhage or Den Haag)
+Zoetermeer
+
+Utrecht[edit]
+Amersfoort
+Nieuwegein
+Utrecht
+Veenendaal
+
+Zeeland[edit]
+Arnemuiden
+Goes
+Hulst
+Middelburg
+Sluis
+Terneuzen
+Veere
+Vlissingen (English: Flushing)
+Zierikzee
+See also
+-->
+
+<kuwait name="" englishName="Netherlands">
+  <province id="1" name="Capital" englishName="" symbol="">
+    <city id="1" name="Capital" englishName="" symbol="">
+      <area id="1" name="Dasman" englishName=""/>
+    </city>
+  </province>
+</kuwait>

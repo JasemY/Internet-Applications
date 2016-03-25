@@ -1,0 +1,376 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+File: List of language specific attributes and search terms
+Started: 1994-??
+Updated: 2013-06
+
+// these should belong to a translation XML
+
+ <en>
+  <welcome>Welcome!</welcome>
+ </en>
+
+ <ar>
+  <welcome>أهلاً و سهلاً</welcome>
+ </ar>
+
+ <tr>
+  <welcome>Hos Geldiniz</welcome>
+ </tr>
+
+ <jp>
+  <welcome>有賀とござい増すまず</welcome>
+ </jp>
+
+  <lang id="1" symbol="en">
+    <name lang="en">English</name>
+    <name lang="es">Spanish</name>
+    <name lang="fr">French</name>
+    <name lang="de">German</name>
+    <name lang="nl">Dutch</name>
+    <name lang="ja">Japanese</name>
+    <name lang="ko">Korean</name>
+    <name lang="ar">Arabic</name>
+    <other>Other languages</other>
+  </lang>
+
+  <lang id="2" symbol="es">
+    <name lang="en">Inglés</name>
+    <name lang="es"></name>
+    <name lang="fr">Francés</name>
+    <name lang="de">Alemán</name>
+    <name lang="nl">Holandés</name>
+    <name lang="ja"></name>
+    <name lang="ko"></name>
+    <name lang="ar"></name>
+    <other>Otros idiomas</other>
+  </lang>
+
+  <lang id="3" symbol="fr">
+    <name lang="en">Anglais</name>
+    <name lang="es">Espagnol</name>
+    <name lang="fr"></name>
+    <name lang="de">Allemand</name>
+    <name lang="nl">Hollandais</name>
+    <name lang="ja"></name>
+    <name lang="ko"></name>
+    <name lang="ar"></name>
+    <other>Autres langues</other>
+  </lang>
+
+  <lang id="4" symbol="de">
+    <name lang="en">Englisch</name>
+    <name lang="es">Spanisch</name>
+    <name lang="fr">Französisch</name>
+    <name lang="de"></name>
+    <name lang="nl">Holländisch</name>
+    <name lang="ja"></name>
+    <name lang="ko"></name>
+    <name lang="ar"></name>
+    <other>Andere Freundsprachen</other>
+  </lang>
+
+  <lang id="5" symbol="nl">
+    <name lang="en">Engels</name>
+    <name lang="es">Spaans</name>
+    <name lang="fr">Frans</name>
+    <name lang="de">Duits</name>
+    <name lang="nl"></name>
+    <name lang="ja"></name>
+    <name lang="ko"></name>
+    <name lang="ar"></name>
+    <other>Andere talen</other>
+  </lang>
+
+  <lang id="6" symbol="ja">
+    <name lang="en"></name>
+    <name lang="es"></name>
+    <name lang="fr"></name>
+    <name lang="de"></name>
+    <name lang="nl"></name>
+    <name lang="ja"></name>
+    <name lang="ko"></name>
+    <name lang="ar"></name>
+    <other></other>
+  </lang>
+
+  <lang id="7" symbol="ko">
+    <name lang="en"></name>
+    <name lang="es"></name>
+    <name lang="fr"></name>
+    <name lang="de"></name>
+    <name lang="nl"></name>
+    <name lang="ja"></name>
+    <name lang="ko"></name>
+    <name lang="ar"></name>
+    <other></other>
+  </lang>
+
+  <lang id="8" symbol="ar">
+    <name lang="en">إنجليزية</name>
+    <name lang="es">إسبانية</name>
+    <name lang="fr">فرنسية</name>
+    <name lang="de">ألمانية</name>
+    <name lang="nl">هولندية</name>
+    <name lang="ja">يابانية</name>
+    <name lang="ko">كورية</name>
+    <name lang="ar">عربية</name>
+    <other>لغات أخرى</other>
+  </lang>
+
+
+-->
+
+<languageList>
+
+  <iso name="ISO 639-2">
+
+    <!-- language iso_639_1="" iso_639_2_5="" iso_639_3="" name="" englishName="" arabicName="" scope="" type=""/ -->
+    
+    <!--
+
+Ænglisc
+Arpetan
+
+Беларуская
+Български
+Boarisch
+Čeština
+
+
+Ελληνικά
+
+
+Euskara
+
+
+
+हिन्दी
+Hrvatski
+Bahasa Indonesia
+Ирон
+
+Basa Jawa
+ქართული
+Қазақша
+Kiswahili
+Кырык мары
+Latina
+Latviešu
+Lëtzebuergesch
+Lietuvių
+Magyar
+Македонски
+मराठी
+
+
+Norsk bokmål
+Norsk nynorsk
+Polski
+
+Română
+Русский
+Simple English
+Slovenčina
+Slovenščina
+Српски / srpski
+Srpskohrvatski / српскохрватски
+
+Svenska
+Taqbaylit
+
+Українська
+Tiếng Việt
+中文
+    -->
+
+    <language iso_639_1="aa" iso_639_2_5="aar" iso_639_3="aar" name="" englishName="Afar" arabicName="" scope="" type=""/>
+    <language iso_639_1="ab" iso_639_2_5="abk" iso_639_3="abk" name="" englishName="Abkhazian" arabicName="" scope="" type=""/>
+    <language iso_639_1="ae" iso_639_2_5="ave" iso_639_3="ave" name="" englishName="Avestan" arabicName="" scope="" type=""/>
+    <language iso_639_1="af" iso_639_2_5="afr" iso_639_3="afr" name="Afrikaans" englishName="Afrikaans" arabicName="" scope="" type=""/>
+    <language iso_639_1="ak" iso_639_2_5="aka" iso_639_3="aka" name="" englishName="Akan" arabicName="" scope="" type=""/>
+    <language iso_639_1="am" iso_639_2_5="amh" iso_639_3="amh" name="" englishName="Amharic" arabicName="" scope="" type=""/>
+    <language iso_639_1="an" iso_639_2_5="arg" iso_639_3="arg" name="" englishName="Aragonese" arabicName="" scope="" type=""/>
+    <language iso_639_1="ar" iso_639_2_5="ara" iso_639_3="ara" name="" englishName="Arabic" arabicName="" scope="" type=""/>
+    <language iso_639_1="as" iso_639_2_5="asm" iso_639_3="asm" name="" englishName="Assamese" arabicName="" scope="" type=""/>
+    <language iso_639_1="av" iso_639_2_5="ava" iso_639_3="ava" name="" englishName="Avaric" arabicName="" scope="" type=""/>
+    <language iso_639_1="ay" iso_639_2_5="aym" iso_639_3="aym" name="" englishName="Aymara" arabicName="" scope="" type=""/>
+    <language iso_639_1="az" iso_639_2_5="aze" iso_639_3="aze" name="Azərbaycanca" englishName="Azerbaijani" arabicName="" scope="" type=""/>
+    <language iso_639_1="ba" iso_639_2_5="bak" iso_639_3="bak" name="" englishName="Bashkir" arabicName="" scope="" type=""/>
+    <language iso_639_1="be" iso_639_2_5="bel" iso_639_3="bel" name="" englishName="Belarusian" arabicName="" scope="" type=""/>
+    <language iso_639_1="bg" iso_639_2_5="bul" iso_639_3="bul" name="" englishName="Bulgarian" arabicName="" scope="" type=""/>
+    <language iso_639_1="bh" iso_639_2_5="bih" iso_639_3="" name="" englishName="Bihari" arabicName="" scope="" type=""/>
+    <language iso_639_1="bi" iso_639_2_5="bis" iso_639_3="bis" name="" englishName="Bislama" arabicName="" scope="" type=""/>
+    <language iso_639_1="bm" iso_639_2_5="bam" iso_639_3="bam" name="" englishName="Bambara" arabicName="" scope="" type=""/>
+    <language iso_639_1="bn" iso_639_2_5="ben" iso_639_3="ben" name="" englishName="Bengali" arabicName="" scope="" type=""/>
+    <language iso_639_1="bo" iso_639_2_5="bod/tib" iso_639_3="bod" name="" englishName="Tibetan" arabicName="" scope="" type=""/>
+    <language iso_639_1="br" iso_639_2_5="bre" iso_639_3="bre" name="" englishName="Breton" arabicName="" scope="" type=""/>
+    <language iso_639_1="bs" iso_639_2_5="bos" iso_639_3="bos" name="" englishName="Bosnian" arabicName="" scope="" type=""/>
+    <language iso_639_1="ca" iso_639_2_5="cat" iso_639_3="cat" name="" englishName="Catalan" arabicName="" scope="" type=""/>
+    <language iso_639_1="ce" iso_639_2_5="che" iso_639_3="che" name="" englishName="Chechen" arabicName="" scope="" type=""/>
+    <language iso_639_1="ch" iso_639_2_5="cha" iso_639_3="cha" name="" englishName="Chamorro" arabicName="" scope="" type=""/>
+    <language iso_639_1="co" iso_639_2_5="cos" iso_639_3="cos" name="" englishName="Corsican" arabicName="" scope="" type=""/>
+    <language iso_639_1="cr" iso_639_2_5="cre" iso_639_3="cre" name="" englishName="Cree" arabicName="" scope="" type=""/>
+    <language iso_639_1="cs" iso_639_2_5="ces/cze" iso_639_3="ces" name="" englishName="Czech" arabicName="" scope="" type=""/>
+    <language iso_639_1="cu" iso_639_2_5="chu" iso_639_3="chu" name="" englishName="Church Slavic" arabicName="" scope="" type=""/>
+    <language iso_639_1="cv" iso_639_2_5="chv" iso_639_3="chv" name="" englishName="Chuvash" arabicName="" scope="" type=""/>
+    <language iso_639_1="cy" iso_639_2_5="cym/wel" iso_639_3="cym" name="" englishName="Welsh" arabicName="" scope="" type=""/>
+    <language iso_639_1="da" iso_639_2_5="dan" iso_639_3="dan" name="Dansk" englishName="Danish" arabicName="" scope="" type=""/>
+    <language iso_639_1="de" iso_639_2_5="deu/ger" iso_639_3="deu" name="Deutsch" englishName="German" arabicName="" scope="" type=""/>
+    <language iso_639_1="dv" iso_639_2_5="div" iso_639_3="div" name="" englishName="Dhivehi" arabicName="" scope="" type=""/>
+    <language iso_639_1="dz" iso_639_2_5="dzo" iso_639_3="dzo" name="" englishName="Dzongkha" arabicName="" scope="" type=""/>
+    <language iso_639_1="ee" iso_639_2_5="ewe" iso_639_3="ewe" name="" englishName="Ewe" arabicName="" scope="" type=""/>
+    <language iso_639_1="el" iso_639_2_5="ell/gre" iso_639_3="ell" name="" englishName="Modern Greek" arabicName="" scope="" type=""/>
+    <language iso_639_1="en" iso_639_2_5="eng" iso_639_3="eng" name="" englishName="English" arabicName="" scope="" type=""/>
+    <language iso_639_1="eo" iso_639_2_5="epo" iso_639_3="epo" name="Esperanto" englishName="Esperanto" arabicName="" scope="" type=""/>
+    <language iso_639_1="es" iso_639_2_5="spa" iso_639_3="spa" name="Español" englishName="Spanish" arabicName="" scope="" type=""/>
+    <language iso_639_1="et" iso_639_2_5="est" iso_639_3="est" name="" englishName="Estonian" arabicName="" scope="" type=""/>
+    <language iso_639_1="eu" iso_639_2_5="eus/baq" iso_639_3="eus" name="" englishName="Basque" arabicName="" scope="" type=""/>
+    <language iso_639_1="fa" iso_639_2_5="fas/per" iso_639_3="fas" name="فارسی" englishName="Persian" arabicName="" scope="" type=""/>
+    <language iso_639_1="ff" iso_639_2_5="ful" iso_639_3="ful" name="" englishName="Fulah" arabicName="" scope="" type=""/>
+    <language iso_639_1="fi" iso_639_2_5="fin" iso_639_3="fin" name="Suomi" englishName="Finnish" arabicName="" scope="" type=""/>
+    <language iso_639_1="fj" iso_639_2_5="fij" iso_639_3="fij" name="" englishName="Fijian" arabicName="" scope="" type=""/>
+    <language iso_639_1="fo" iso_639_2_5="fao" iso_639_3="fao" name="" englishName="Faroese" arabicName="" scope="" type=""/>
+    <language iso_639_1="fr" iso_639_2_5="fra/fre" iso_639_3="fra" name="Français" englishName="French" arabicName="" scope="" type=""/>
+    <language iso_639_1="fy" iso_639_2_5="fry" iso_639_3="fry" name="" englishName="Western Frisian" arabicName="" scope="" type=""/>
+    <language iso_639_1="ga" iso_639_2_5="gle" iso_639_3="gle" name="" englishName="Irish" arabicName="" scope="" type=""/>
+    <language iso_639_1="gd" iso_639_2_5="gla" iso_639_3="gla" name="" englishName="Scottish Gaelic" arabicName="" scope="" type=""/>
+    <language iso_639_1="gl" iso_639_2_5="glg" iso_639_3="glg" name="" englishName="Galician" arabicName="" scope="" type=""/>
+    <language iso_639_1="gn" iso_639_2_5="grn" iso_639_3="grn" name="" englishName="Guarani" arabicName="" scope="" type=""/>
+    <language iso_639_1="gu" iso_639_2_5="guj" iso_639_3="guj" name="" englishName="Gujarati" arabicName="" scope="" type=""/>
+    <language iso_639_1="gv" iso_639_2_5="glv" iso_639_3="glv" name="" englishName="Manx" arabicName="" scope="" type=""/>
+    <language iso_639_1="ha" iso_639_2_5="hau" iso_639_3="hau" name="" englishName="Hausa" arabicName="" scope="" type=""/>
+    <language iso_639_1="he" iso_639_2_5="heb" iso_639_3="heb" name="" englishName="Hebrew" arabicName="" scope="" type=""/>
+    <language iso_639_1="hi" iso_639_2_5="hin" iso_639_3="hin" name="" englishName="Hindi" arabicName="" scope="" type=""/>
+    <language iso_639_1="ho" iso_639_2_5="hmo" iso_639_3="hmo" name="" englishName="Hiri Motu" arabicName="" scope="" type=""/>
+    <language iso_639_1="hr" iso_639_2_5="hrv" iso_639_3="hrv" name="" englishName="Croatian" arabicName="" scope="" type=""/>
+    <language iso_639_1="ht" iso_639_2_5="hat" iso_639_3="hat" name="" englishName="Haitian" arabicName="" scope="" type=""/>
+    <language iso_639_1="hu" iso_639_2_5="hun" iso_639_3="hun" name="" englishName="Hungarian" arabicName="" scope="" type=""/>
+    <language iso_639_1="hy" iso_639_2_5="hye/arm" iso_639_3="hye" name="" englishName="Armenian" arabicName="" scope="" type=""/>
+    <language iso_639_1="hz" iso_639_2_5="her" iso_639_3="her" name="" englishName="Herero" arabicName="" scope="" type=""/>
+    <language iso_639_1="ia" iso_639_2_5="ina" iso_639_3="ina" name="" englishName="Interlingua" arabicName="" scope="" type=""/>
+    <language iso_639_1="id" iso_639_2_5="ind" iso_639_3="ind" name="" englishName="Indonesian" arabicName="" scope="" type=""/>
+    <language iso_639_1="ie" iso_639_2_5="ile" iso_639_3="ile" name="" englishName="Interlingue" arabicName="" scope="" type=""/>
+    <language iso_639_1="ig" iso_639_2_5="ibo" iso_639_3="ibo" name="" englishName="Igbo" arabicName="" scope="" type=""/>
+    <language iso_639_1="ii" iso_639_2_5="iii" iso_639_3="iii" name="" englishName="Sichuan Yi" arabicName="" scope="" type=""/>
+    <language iso_639_1="ik" iso_639_2_5="ipk" iso_639_3="ipk" name="" englishName="Inupia" arabicName="" scope="" type=""/>
+    <language iso_639_1="io" iso_639_2_5="ido" iso_639_3="ido" name="" englishName="Ido" arabicName="" scope="" type=""/>
+    <language iso_639_1="is" iso_639_2_5="isl/ice" iso_639_3="isl" name="" englishName="Icelandic" arabicName="" scope="" type=""/>
+    <language iso_639_1="it" iso_639_2_5="ita" iso_639_3="ita" name="Italiano" englishName="Italian" arabicName="" scope="" type=""/>
+    <language iso_639_1="iu" iso_639_2_5="iku" iso_639_3="iku" name="" englishName="Inuktitut" arabicName="" scope="" type=""/>
+    <language iso_639_1="ja" iso_639_2_5="jpn" iso_639_3="jpn" name="日本語" englishName="Japanese" arabicName="" scope="" type=""/>
+    <language iso_639_1="jv" iso_639_2_5="jav" iso_639_3="jav" name="" englishName="Javanese" arabicName="" scope="" type=""/>
+    <language iso_639_1="ka" iso_639_2_5="kat/geo" iso_639_3="kat" name="" englishName="Georgian" arabicName="" scope="" type=""/>
+    <language iso_639_1="kg" iso_639_2_5="kon" iso_639_3="kon" name="" englishName="Kongo" arabicName="" scope="" type=""/>
+    <language iso_639_1="ki" iso_639_2_5="kik" iso_639_3="kik" name="" englishName="Kikuyu" arabicName="" scope="" type=""/>
+    <language iso_639_1="kj" iso_639_2_5="kua" iso_639_3="kua" name="" englishName="Kuanyama" arabicName="" scope="" type=""/>
+    <language iso_639_1="kk" iso_639_2_5="kaz" iso_639_3="kaz" name="" englishName="Kazakh" arabicName="" scope="" type=""/>
+    <language iso_639_1="kl" iso_639_2_5="kal" iso_639_3="kal" name="" englishName="Kalaallisut" arabicName="" scope="" type=""/>
+    <language iso_639_1="km" iso_639_2_5="khm" iso_639_3="khm" name="" englishName="Central Khmer" arabicName="" scope="" type=""/>
+    <language iso_639_1="kn" iso_639_2_5="kan" iso_639_3="kan" name="" englishName="Kannada" arabicName="" scope="" type=""/>
+    <language iso_639_1="ko" iso_639_2_5="kor" iso_639_3="kor" name="한국어" englishName="Korean" arabicName="" scope="" type=""/>
+    <language iso_639_1="kr" iso_639_2_5="kau" iso_639_3="kau" name="" englishName="Kanuri" arabicName="" scope="" type=""/>
+    <language iso_639_1="ks" iso_639_2_5="kas" iso_639_3="kas" name="" englishName="Kashmiri" arabicName="" scope="" type=""/>
+    <language iso_639_1="ku" iso_639_2_5="kur" iso_639_3="kur" name="" englishName="Kurdish" arabicName="" scope="" type=""/>
+    <language iso_639_1="kv" iso_639_2_5="kom" iso_639_3="kom" name="" englishName="Komi" arabicName="" scope="" type=""/>
+    <language iso_639_1="kw" iso_639_2_5="cor" iso_639_3="cor" name="" englishName="Cornish" arabicName="" scope="" type=""/>
+    <language iso_639_1="ky" iso_639_2_5="kir" iso_639_3="kir" name="" englishName="Kirghiz" arabicName="" scope="" type=""/>
+    <language iso_639_1="la" iso_639_2_5="lat" iso_639_3="lat" name="" englishName="Latin" arabicName="" scope="" type=""/>
+    <language iso_639_1="lb" iso_639_2_5="ltz" iso_639_3="ltz" name="" englishName="Luxembourgish" arabicName="" scope="" type=""/>
+    <language iso_639_1="lg" iso_639_2_5="lug" iso_639_3="lug" name="" englishName="Ganda" arabicName="" scope="" type=""/>
+    <language iso_639_1="li" iso_639_2_5="lim" iso_639_3="lim" name="" englishName="Limburgan" arabicName="" scope="" type=""/>
+    <language iso_639_1="ln" iso_639_2_5="lin" iso_639_3="lin" name="" englishName="Lingala" arabicName="" scope="" type=""/>
+    <language iso_639_1="lo" iso_639_2_5="lao" iso_639_3="lao" name="" englishName="Lao" arabicName="" scope="" type=""/>
+    <language iso_639_1="lt" iso_639_2_5="lit" iso_639_3="lit" name="" englishName="Lithuanian" arabicName="" scope="" type=""/>
+    <language iso_639_1="lu" iso_639_2_5="lub" iso_639_3="lub" name="" englishName="Luba-Katanga" arabicName="" scope="" type=""/>
+    <language iso_639_1="lv" iso_639_2_5="lav" iso_639_3="lav" name="" englishName="Latvian" arabicName="" scope="" type=""/>
+    <language iso_639_1="mg" iso_639_2_5="mlg" iso_639_3="mlg" name="" englishName="Malagasy" arabicName="" scope="" type=""/>
+    <language iso_639_1="mh" iso_639_2_5="mah" iso_639_3="mah" name="" englishName="Marshallese" arabicName="" scope="" type=""/>
+    <language iso_639_1="mi" iso_639_2_5="mri/mao" iso_639_3="mri" name="" englishName="Maori" arabicName="" scope="" type=""/>
+    <language iso_639_1="mk" iso_639_2_5="mkd/mac" iso_639_3="mkd" name="" englishName="Macedonian" arabicName="" scope="" type=""/>
+    <language iso_639_1="ml" iso_639_2_5="mal" iso_639_3="mal" name="" englishName="Malayalam" arabicName="" scope="" type=""/>
+    <language iso_639_1="mn" iso_639_2_5="mon" iso_639_3="mon" name="" englishName="Mongolian" arabicName="" scope="" type=""/>
+    <language iso_639_1="mr" iso_639_2_5="mar" iso_639_3="mar" name="" englishName="Marathi" arabicName="" scope="" type=""/>
+    <language iso_639_1="ms" iso_639_2_5="msa/may" iso_639_3="msa" name="" englishName="Malay" arabicName="" scope="" type=""/>
+    
+    <language iso_639_1="mt" iso_639_2_5="mlt" iso_639_3="mlt" name="" englishName="Maltese" arabicName="" scope="" type=""/>
+    <language iso_639_1="my" iso_639_2_5="mya/bur" iso_639_3="mya" name="" englishName="Burmese" arabicName="" scope="" type=""/>
+    <language iso_639_1="na" iso_639_2_5="nau" iso_639_3="nau" name="" englishName="Nauru" arabicName="" scope="" type=""/>
+    <language iso_639_1="nb" iso_639_2_5="nob" iso_639_3="nob" name="" englishName="Norwegian Bokmål" arabicName="" scope="" type=""/>
+    <language iso_639_1="nd" iso_639_2_5="nde" iso_639_3="nde" name="" englishName="North Ndebele" arabicName="" scope="" type=""/>
+    <language iso_639_1="ne" iso_639_2_5="nep" iso_639_3="nep" name="" englishName="Nepali" arabicName="" scope="" type=""/>
+    <language iso_639_1="ng" iso_639_2_5="ndo" iso_639_3="ndo" name="" englishName="Ndonga" arabicName="" scope="" type=""/>
+    <language iso_639_1="nl" iso_639_2_5="nld/dut" iso_639_3="nld" name="Nederlands" englishName="Dutch" arabicName="" scope="" type=""/>
+    <language iso_639_1="nn" iso_639_2_5="nno" iso_639_3="nno" name="" englishName="Norwegian Nynorsk" arabicName="" scope="" type=""/>
+    <language iso_639_1="no" iso_639_2_5="nor" iso_639_3="nor" name="" englishName="Norwegian" arabicName="" scope="" type=""/>
+    <language iso_639_1="nr" iso_639_2_5="nbl" iso_639_3="nbl" name="" englishName="South Ndebele" arabicName="" scope="" type=""/>
+    <language iso_639_1="nv" iso_639_2_5="nav" iso_639_3="nav" name="" englishName="Navajo" arabicName="" scope="" type=""/>
+    <language iso_639_1="ny" iso_639_2_5="nya" iso_639_3="nya" name="" englishName="Nyanja" arabicName="" scope="" type=""/>
+    <language iso_639_1="oc" iso_639_2_5="oci" iso_639_3="oci" name="" englishName="Occitan" arabicName="" scope="" type=""/>
+    <language iso_639_1="oj" iso_639_2_5="oji" iso_639_3="oji" name="" englishName="Ojibwa" arabicName="" scope="" type=""/>
+    <language iso_639_1="om" iso_639_2_5="orm" iso_639_3="orm" name="" englishName="Oromo" arabicName="" scope="" type=""/>
+    <language iso_639_1="or" iso_639_2_5="ori" iso_639_3="ori" name="" englishName="Oriya" arabicName="" scope="" type=""/>
+    <language iso_639_1="os" iso_639_2_5="oss" iso_639_3="oss" name="" englishName="Ossetian" arabicName="" scope="" type=""/>
+    <language iso_639_1="pa" iso_639_2_5="pan" iso_639_3="pan" name="" englishName="Panjabi" arabicName="" scope="" type=""/>
+    <language iso_639_1="pi" iso_639_2_5="pli" iso_639_3="pli" name="" englishName="Pali" arabicName="" scope="" type=""/>
+    <language iso_639_1="pl" iso_639_2_5="pol" iso_639_3="pol" name="" englishName="Polish" arabicName="" scope="" type=""/>
+    <language iso_639_1="ps" iso_639_2_5="pus" iso_639_3="pus" name="" englishName="Pushto" arabicName="" scope="" type=""/>
+    <language iso_639_1="pt" iso_639_2_5="por" iso_639_3="por" name="Português" englishName="Portuguese" arabicName="" scope="" type=""/>
+    <language iso_639_1="qu" iso_639_2_5="que" iso_639_3="que" name="" englishName="Quechua" arabicName="" scope="" type=""/>
+    <language iso_639_1="rm" iso_639_2_5="roh" iso_639_3="roh" name="" englishName="Romansh" arabicName="" scope="" type=""/>
+    <language iso_639_1="rn" iso_639_2_5="run" iso_639_3="run" name="" englishName="Rundi" arabicName="" scope="" type=""/>
+    <language iso_639_1="ro" iso_639_2_5="ron/rum" iso_639_3="ron" name="" englishName="Romanian" arabicName="" scope="" type=""/>
+    <language iso_639_1="ru" iso_639_2_5="rus" iso_639_3="rus" name="" englishName="Russian" arabicName="" scope="" type=""/>
+    <language iso_639_1="rw" iso_639_2_5="kin" iso_639_3="kin" name="" englishName="Kinyarwanda" arabicName="" scope="" type=""/>
+    <language iso_639_1="sa" iso_639_2_5="san" iso_639_3="san" name="" englishName="Sanskrit" arabicName="" scope="" type=""/>
+    <language iso_639_1="sc" iso_639_2_5="srd" iso_639_3="srd" name="" englishName="Sardinian" arabicName="" scope="" type=""/>
+    <language iso_639_1="sd" iso_639_2_5="snd" iso_639_3="snd" name="" englishName="Sindhi" arabicName="" scope="" type=""/>
+    <language iso_639_1="se" iso_639_2_5="sme" iso_639_3="sme" name="" englishName="Northern Sami" arabicName="" scope="" type=""/>
+    <language iso_639_1="sg" iso_639_2_5="sag" iso_639_3="sag" name="" englishName="Sango" arabicName="" scope="" type=""/>
+    <language iso_639_1="si" iso_639_2_5="sin" iso_639_3="sin" name="" englishName="Sinhala" arabicName="" scope="" type=""/>
+    <language iso_639_1="sk" iso_639_2_5="slk/slo" iso_639_3="slk" name="" englishName="Slovak" arabicName="" scope="" type=""/>
+    <language iso_639_1="sl" iso_639_2_5="slv" iso_639_3="slv" name="" englishName="Slovenian" arabicName="" scope="" type=""/>
+    <language iso_639_1="sm" iso_639_2_5="smo" iso_639_3="smo" name="" englishName="Samoan" arabicName="" scope="" type=""/>
+    <language iso_639_1="sn" iso_639_2_5="sna" iso_639_3="sna" name="" englishName="Shona" arabicName="" scope="" type=""/>
+    <language iso_639_1="so" iso_639_2_5="som" iso_639_3="som" name="" englishName="Somali" arabicName="" scope="" type=""/>
+    <language iso_639_1="sq" iso_639_2_5="sqi/alb" iso_639_3="sqi" name="" englishName="Albanian" arabicName="" scope="" type=""/>
+    <language iso_639_1="sr" iso_639_2_5="srp" iso_639_3="srp" name="" englishName="Serbian" arabicName="" scope="" type=""/>
+    <language iso_639_1="ss" iso_639_2_5="ssw" iso_639_3="ssw" name="" englishName="Swati" arabicName="" scope="" type=""/>
+    <language iso_639_1="st" iso_639_2_5="sot" iso_639_3="sot" name="" englishName="Southern Sotho" arabicName="" scope="" type=""/>
+    <language iso_639_1="su" iso_639_2_5="sun" iso_639_3="sun" name="" englishName="Sundanese" arabicName="" scope="" type=""/>
+    <language iso_639_1="sv" iso_639_2_5="swe" iso_639_3="swe" name="" englishName="Swedish" arabicName="" scope="" type=""/>
+    <language iso_639_1="sw" iso_639_2_5="swa" iso_639_3="swa" name="" englishName="Swahili" arabicName="" scope="" type=""/>
+    <language iso_639_1="ta" iso_639_2_5="tam" iso_639_3="tam" name="" englishName="Tamil" arabicName="" scope="" type=""/>
+    <language iso_639_1="te" iso_639_2_5="tel" iso_639_3="tel" name="" englishName="Telugu" arabicName="" scope="" type=""/>
+    <language iso_639_1="tg" iso_639_2_5="tgk" iso_639_3="tgk" name="" englishName="Tajik" arabicName="" scope="" type=""/>
+    <language iso_639_1="th" iso_639_2_5="tha" iso_639_3="tha" name="" englishName="Thai" arabicName="" scope="" type=""/>
+    <language iso_639_1="ti" iso_639_2_5="tir" iso_639_3="tir" name="" englishName="Tigrinya" arabicName="" scope="" type=""/>
+    <language iso_639_1="tk" iso_639_2_5="tuk" iso_639_3="tuk" name="" englishName="Turkmen" arabicName="" scope="" type=""/>
+    <language iso_639_1="tl" iso_639_2_5="tgl" iso_639_3="tgl" name="" englishName="Tagalog" arabicName="" scope="" type=""/>
+    <language iso_639_1="tn" iso_639_2_5="tsn" iso_639_3="tsn" name="" englishName="Tswana" arabicName="" scope="" type=""/>
+    <language iso_639_1="to" iso_639_2_5="ton" iso_639_3="ton" name="" englishName="Tonga" arabicName="" scope="" type=""/>
+    <language iso_639_1="tr" iso_639_2_5="tur" iso_639_3="tur" name="Türkçe" englishName="Turkish" arabicName="" scope="" type=""/>
+    <language iso_639_1="ts" iso_639_2_5="tso" iso_639_3="tso" name="" englishName="Tsonga" arabicName="" scope="" type=""/>
+    <language iso_639_1="tt" iso_639_2_5="tat" iso_639_3="tat" name="" englishName="Tatar" arabicName="" scope="" type=""/>
+    <language iso_639_1="tw" iso_639_2_5="twi" iso_639_3 ="twi" name="" englishName="Twi" arabicName="" scope="" type=""/>
+    <language iso_639_1="ty" iso_639_2_5="tah" iso_639_3="tah" name="" englishName="Tahitian" arabicName="" scope="" type=""/>
+    <language iso_639_1="ug" iso_639_2_5="uig" iso_639_3="uig" name="" englishName="Uighur" arabicName="" scope="" type=""/>
+    <language iso_639_1="uk" iso_639_2_5="ukr" iso_639_3="ukr" name="" englishName="Ukrainian" arabicName="" scope="" type=""/>
+    <language iso_639_1="ur" iso_639_2_5="urd" iso_639_3="urd" name="" englishName="Urdu" arabicName="" scope="" type=""/>
+    <language iso_639_1="uz" iso_639_2_5="uzb" iso_639_3="uzb" name="" englishName="Uzbek" arabicName="" scope="" type=""/>
+    <language iso_639_1="ve" iso_639_2_5="ven" iso_639_3="ven" name="" englishName="Venda" arabicName="" scope="" type=""/>
+    <language iso_639_1="vi" iso_639_2_5="vie" iso_639_3="vie" name="" englishName="Vietnamese" arabicName="" scope="" type=""/>
+    <language iso_639_1="vo" iso_639_2_5="vol" iso_639_3="vol" name="" englishName="Volapük" arabicName="" scope="" type=""/>
+    <language iso_639_1="wa" iso_639_2_5="wln" iso_639_3="wln" name="" englishName="Walloon" arabicName="" scope="" type=""/>
+    <language iso_639_1="wo" iso_639_2_5="wol" iso_639_3="wol" name="" englishName="Wolof" arabicName="" scope="" type=""/>
+    <language iso_639_1="xh" iso_639_2_5="xho" iso_639_3="xho" name="" englishName="Xhosa" arabicName="" scope="" type=""/>
+    <language iso_639_1="yi" iso_639_2_5="yid" iso_639_3="yid" name="" englishName="Yiddish" arabicName="" scope="" type=""/>
+    <language iso_639_1="yo" iso_639_2_5="yor" iso_639_3="yor" name="" englishName="Yoruba" arabicName="" scope="" type=""/>
+    <language iso_639_1="za" iso_639_2_5="zha" iso_639_3="zha" name="" englishName="Zhuang" arabicName="" scope="" type=""/>
+    <language iso_639_1="zh" iso_639_2_5="zho/chi" iso_639_3="zho" name="" englishName="Chinese" arabicName="" scope="" type=""/>
+    <language iso_639_1="zu" iso_639_2_5="zul" iso_639_3="zul" name="" englishName="Zulu" arabicName="" scope="" type=""/>
+
+  </iso>
+
+</languageList>
+
